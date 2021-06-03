@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay of moral rules observed in the use of medicinal remedies in order unto their success. Being a discourse of the causes of the decay of natural health, and brevity of humane life in this present age. By J. M.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <extent>Approx. 94KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26385</idno><idno type="EEBO-CITATION">99828719</idno>
+  <idno type="VID">207583</idno>
+  <idno type="EEBO-PROQUEST">2240883449</idno>
+  
+            <idno type="STC">Wing M36</idno>
+            <idno type="PROQUEST">99828719</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828719e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay of moral rules observed in the use of medicinal remedies in order unto their success. Being a discourse of the causes of the decay of natural health, and brevity of humane life in this present age. By J. M.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>[2], 105, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed Tho. Cockeril, at the [Three] Legs in the Poultery,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a caption title on A2: An essay, representing those moral rules requisite to be observed in the use of medicinal remedies.</note>
+                  <note>With an advertisement on the verso of E6.</note>
+                  <note>Copy catalogued imprint partly illegible; title page stained.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Health promotion --  Early works to 1800.</term>
+               <term type="topical_term">Moral education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207583:1"/>
+            <p>AN ESSAY OF MORAL RULES Observed in the use of <hi>Medicinal Remedies,</hi> in order unto their Success.</p>
+            <p>Being a DISCOURSE of the Causes of the decay of Na<g ref="char:EOLhyphen"/>tural Health, and brevity of Humane Life in this present Age.</p>
+            <p>By <hi>J. M.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Tho. Cockeril,</hi> at the T<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Legs</hi> in the <hi>Poultery,</hi> 1677.</p>
+            <pb facs="tcp:207583:2"/>
+            <pb facs="tcp:207583:2"/>
+            <pb facs="tcp:207583:3"/>
+            <pb facs="tcp:207583:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:207583:4"/>
+            <pb n="1" facs="tcp:207583:4"/>
+            <head>An Essay, representing those Moral Rules re<g ref="char:EOLhyphen"/>quisite to be observed in the use of Medicinal Remedies.</head>
+            <div n="1-51" type="pages">
+               <p>WHen the Question was asked amongst the wise men of the World, What was the greatest Blessing Mortals were capable of enjoying? The Answer was as comprehensive when it was returned: <hi>Mens sana in cor<g ref="char:EOLhyphen"/>pore sane,</hi> A sound mind in a sound body. For nothing is more apparent, than that the health of the Body, preserves the harmony of the Soul; and the harmony of the Soul preserves
+<pb n="2" facs="tcp:207583:5"/> the health of the Body.</p>
+               <p>Health is the greatest of all tem<g ref="char:EOLhyphen"/>poral Blessings. Without it, the most delicious dainty will not please the pallat, the most fra<g ref="char:EOLhyphen"/>grant odors will not delight the smell, the most harmonious melo<g ref="char:EOLhyphen"/>dies will not gratifie the ear, the most beautiful objects will not please the eyes, the softest down will not ease the bones: Health is that which makes our delights delightful; without which, we cannot solace our selves in any temporal enjoyments, or worship a Deity in any spiritual perform<g ref="char:EOLhyphen"/>ance. Our flesh upon us, being in pain, makes our Souls within us to mourn.</p>
+               <p>Health; it preserves the faculties of the Mind in strength and vi<g ref="char:EOLhyphen"/>gor, makes the wit acute, the memory retentive, and under<g ref="char:EOLhyphen"/>standing clear: Health is that which is of most comfortable im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rtance unto men, next unto
+<pb n="3" facs="tcp:207583:5"/> the Salvation of their Souls.</p>
+               <p>Especially if we consider the many hundreds of Diseases which the mortal bodies of men are ex<g ref="char:EOLhyphen"/>posed unto; some reckoning up Four thousand in all: Above Two hundred seated in the eyes, that small and tender part.</p>
+               <p>When a healthy constitution, and a holy disposition, joyn hand in hand; they consummate hap<g ref="char:EOLhyphen"/>piness. Riches without health, is but like meat without a stomach; which the best Cook cannot make relishing. And Health without Religion, is but like a Down Pil<g ref="char:EOLhyphen"/>low to a restless Head; which the best Chamberlain cannot make easie.</p>
+               <p>All our good things may be reduced to Three. The goods of the Body, of the Mind, and of Fortune; which Three if enjoyed, render a Man as happy as <hi>Solomon</hi> in all his Glory. He who ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Health to enjoy his Riches <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:207583:6"/> Grace to preserve his Health, and the hope of Glory to remunerate his Grace, wants no more.</p>
+               <p>A long Life sweetned with a healthful, is a great blessing, and promised as such to the pious, <hi>viz</hi> to come to their Graves in a ful<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> age, as a Shock of Corn comes in its season.</p>
+               <p>The Beloved Disciple of ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, survived the other Disci<g ref="char:EOLunhyphen"/>ples; and many of the Fathers o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church were long lived which shews that the blessing o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> long life, so often promised unde<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Law, had less abatement afte<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Saviours days, than othe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blessings had.</p>
+               <p>It's a great mercy to pa<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> through the wilderness of thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World, with our Bodies like th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jews Garments, little worn o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> impared by pining and languish<g ref="char:EOLunhyphen"/>ing sicknesses.</p>
+               <p>Who would not be desirous t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a Crown of Glory in th<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:207583:6"/> World, and in the next also? which can be done no other way, but by gray hairs, found in a way of righteousness.</p>
+               <p>
+                  <hi>Enoch</hi> and <hi>Elias</hi> never dyed, and became examples, that a spotless <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ife might possibly have been im<g ref="char:EOLhyphen"/>mortal.</p>
+               <p>
+                  <hi>Adam</hi> may well be reckoned above a Thousand years old, if we compute that time which he might have lived had he been born as <hi>Methusalem</hi> was. We may judg him as perfect at his creation, as one of the Ancients were at Two hundred: And his eating the fruit of the tree of Life, might supply his radical moisture, as fast as his heat consumed it, if he had not sin<g ref="char:EOLhyphen"/>ned.</p>
+               <p>But we are but of yesterday, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he day of our Pilgrimage being but as a shadow.</p>
+               <p>When our great and wise Cre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tor made Man the Master-piece
+<pb n="6" facs="tcp:207583:7"/> of his Creation, he was please<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as a demonstration of his kindness to confer a temporal happines<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> upon him, and to plant him in<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Garden; wherein he might hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> an opportunity, both to contem<g ref="char:EOLhyphen"/>plate his Creators goodness, and to preserve his own life: Being in a supernatural way furnisht with wisdom to discern the particula<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> qualities of those Plants with which he conversed: But being too familiar with the Tree o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Knowledg, he forfeited his righ<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to the Tree of Life; and hath ex<g ref="char:EOLhyphen"/>pos'd himself to the assaults of in<g ref="char:EOLhyphen"/>numerable Diseases. But such i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the kindness of Heaven to ma<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in his lapsed state, that he is plea<g ref="char:EOLhyphen"/>sed to promise some of the influ<g ref="char:EOLhyphen"/>ences of this symbolical Tree upon his obedience to the Divin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> will: so that by our observanc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of those Divine and Eternal Law of Evangelical purity, which ar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>bed as the Christians Rule
+<pb n="7" facs="tcp:207583:7"/> we may as it were transplant the Tree of Life into our own Gar<g ref="char:EOLhyphen"/>dens, and sit under the shadow thereof with great delight, and its fruit may become sweet to our tast.</p>
+               <p>It is probable that man before his fall was immortal; yet had he not sinned, he had not still con<g ref="char:EOLhyphen"/>tinued here upon earth, though his age might have been extend<g ref="char:EOLhyphen"/>ed to some thousands of years; but might have at length been tran<g ref="char:EOLhyphen"/>slated from hence to Heaven, where he could neither have sin<g ref="char:EOLhyphen"/>ned nor dyed.</p>
+               <p>The Life of Man seems to be much pared away; but it cannot prudently be attributed to any decay in nature, and its universal frame; but rather to the immo<g ref="char:EOLhyphen"/>rality, and imprudent extrava<g ref="char:EOLhyphen"/>gancies of Nations and Persons, indulging effeminate, luxurious, and pernicious customs.</p>
+               <p>Nor can we with any shew o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:207583:8"/> Reason, pretend to any mistake in the manner of computing the years of the Patriarchs. For if with some of the Ancients, we suppose them to be only Lunar years, and that Ten or Twelve of their years, made but one of ours: Then gross absurdities would follow from thence, as that they were <hi>Prolifique</hi> at Seven years of age. <hi>Enoch</hi> being no more when he begat <hi>Methusalem;</hi> the date of their lives must be reckoned shorter than many of ours at this day. Moreover the Scripture testifieth, that <hi>Abraham</hi> died in a good old age, full of days, being One hundred seventy and five years old; which number according to that computation, makes but Seventeen years and a half; a ridiculous old Age! It appears most manifest, that <hi>Moses</hi> computation of the year, was the same with ours: For mention is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ade of the first, second, and
+<pb n="9" facs="tcp:207583:8"/> tenth Month; and lest any should imagine, as some have, that those Months lasted only Three days, we have mention made of the Se<g ref="char:EOLhyphen"/>venteenth day of the second Month. The Reasons why the line of their lives was drawn to that length, may be referred to Divine wisdom, seeing it neeessa<g ref="char:EOLhyphen"/>ry so to be, for Reasons best known to himself. And indeed, wonderful was their skill in all the secrets of nature, which might prove very subservient towards the lengthning their lives.</p>
+               <p>But how soon do we find the effects of sin, cutting their lives in halves, in three several Ages? And now we account him won<g ref="char:EOLhyphen"/>drous old, who hath seen Four<g ref="char:EOLhyphen"/>score Summers.</p>
+               <p>The Fathers in the primitive times, had great advantages for the prolongation of their lives, as they had satisfactorily con<g ref="char:EOLhyphen"/>veyed into them the nature o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:207583:9"/> life-preserving Remedies from <hi>Adam,</hi> who gave names unto all creatures from their particular qualities; and from <hi>Solomon,</hi> whose miraculous wisdom is not to be parallel'd.</p>
+               <p>And for the more commodious propagation of Arts and Sciences, it was requisite men should have the experience of former Ages: For as many sensations breed an experiment, so many experiments a Science.</p>
+               <p>And moreover, the several moti<g ref="char:EOLhyphen"/>ons of the heavenly bodies could not be known, without a long time to observe their Periods and Revolutions. It was the complaint of <hi>Hypocrates, A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s longa vita bre<g ref="char:EOLhyphen"/>vis:</hi> and therefore the Almighty in his Wisdom, proportioned mens lives unto the length of Arts. Some Planets, as <hi>Saturn</hi> for one, not going its rounds in less than some hundreds of years, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ould not have been known, if
+<pb n="11" facs="tcp:207583:9"/> men had not lived longer than they do now.</p>
+               <p>But yet we may observe, that the length of Mans age since <hi>Mo<g ref="char:EOLhyphen"/>ses</hi>'s time, seems considerably abre<g ref="char:EOLhyphen"/>viated: He reckoning Threescore years and ten, the ordinary course unto which men generally arrived in those times, whereas now, a third part of all that are born in populous Cities, dye under Five years old; and the greatest part of those that are alive, are be<g ref="char:EOLhyphen"/>tween Sixteen and Six and twen<g ref="char:EOLhyphen"/>ty: And not above Seven in a hundred live unto any confidera<g ref="char:EOLhyphen"/>ble Age. We have nothing in Scripture of <hi>Solomon</hi>'s age; only that when he was old, his Wives turned away his heart. It's thought he might be Threescore and ten. Few Princes, either <hi>Jewish, Roman, Greek,</hi> or <hi>Ger<g ref="char:EOLhyphen"/>man</hi> arrived at Fourscore. Queen <hi>Elizabeth</hi> out-lived all her prede<g ref="char:EOLhyphen"/>cessors since the Conquest</p>
+               <pb n="12" facs="tcp:207583:10"/>
+               <p>The Ancients might probably be long lived, from natural as much as from providential Rea<g ref="char:EOLhyphen"/>sons: For <hi>Adam</hi> was the imme<g ref="char:EOLhyphen"/>diate work of God; and being come, as it were, newly from the Shop of his Creator, he could not be like a House built of rotten timber, but of a far stronger con<g ref="char:EOLhyphen"/>stitution than this weak age af<g ref="char:EOLhyphen"/>fords: Their bodies were not wasted with succession of sicknes<g ref="char:EOLhyphen"/>ses, nor weakened with heredi<g ref="char:EOLhyphen"/>tary diseases; but were armed to resist those few things then con<g ref="char:EOLhyphen"/>trary unto their healths. The seminality of Diseases were not so pregnantly conveyed from the Parent unto the Child, their Infants were not so tenderly brought up, wastful Riot was a stranger unto them, and variety of meats was then unknown: Their nature was not oppressed with burthens, and forced to stagger with her load.</p>
+               <pb n="13" facs="tcp:207583:10"/>
+               <p>Moreover in the first ages of the World, the Air might be more pure, and not then so corrupted with terrene exhalations, such as after-times were pestered with, when once the flood had topt the earth, and drencht it with over<g ref="char:EOLhyphen"/>flowings; and the fruits of the Earth were more nutrative be<g ref="char:EOLhyphen"/>fore the Flood than afterwards, through the salt-waters of the great deep infeebling the Earth: We observe from our general ac<g ref="char:EOLhyphen"/>counts of Mortalities, that there is a great increase in our Bills; in the year 1604, there dyed but 4323, and 895 of the Plague; but in the year 1659, there dyed 14720, and 36 of the Plague: And yet we observe near the same number of persons Born and Christened both years; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o that the disproportion is near Nine thousand in a year, in about Sixty years distance.</p>
+               <p>The Reason given by the Bi<g ref="char:EOLhyphen"/>shops
+<pb n="14" facs="tcp:207583:11"/> of <hi>Rome,</hi> for the contracting the year of Jubilee, from One hundred, to Fifty, and from Fifty unto Five and twenty, is ground<g ref="char:EOLhyphen"/>ed upon a supposition, that the Age of Man is contracted in comparison of former times.</p>
+               <p>Had men in all places and in all ages, arrived unto the lives of the Patriarchs, the earth by this time had not been able to sustain them with food.</p>
+               <p>The <hi>Egyptians</hi> calculated the bounds of mens days, from the weight of their hearts, and judg<g ref="char:EOLhyphen"/>ed a hundred years the utmost Period, taking their estimate from the weight of the heart; which they affirm increaseth two Drachms every year until Fifty, and decreaseth two Drachms un<g ref="char:EOLhyphen"/>til a Hundred: But this opinion seems more curious than true.</p>
+               <p>Sickness, like a Weaver, passeth the shuttle of many lives, and at last cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Thred. Excellently
+<pb n="15" facs="tcp:207583:11"/> shadowed by the Poets fiction, telling us of Three fatal Sisters, the one holding the Distaff, the other drawing the Thread, the third cutting it off.</p>
+               <p>It is a Question amongst some, whether the life of Man be ca<g ref="char:EOLhyphen"/>pable of being prolonged by means? Unto which it may be answered, That the duration of a motion cannot be known, unless the measure thereof be known; nor can it be measured, unless it have known bounds: So that we cannot well know whether life may be prolong'd, without know<g ref="char:EOLhyphen"/>ing how long it lasts. Now its difficult to know this duration punctually.</p>
+               <p>And yet as there are at this day some who exceed a Hundred, so there are a Hundred times as ma<g ref="char:EOLhyphen"/>ny who do not arrive at that Pe<g ref="char:EOLhyphen"/>riod. And as none can speak of Death by experience, because they who speak of it have not felt
+<pb n="16" facs="tcp:207583:12"/> it, and they who have felt it, can<g ref="char:EOLhyphen"/>not speak of it. The case is much the same concerning Life; for unless a Man live unto ex<g ref="char:EOLhyphen"/>tream old age, he will not believe that his life hath been prolonged: But on the contrary, that his hour was not yet come.</p>
+               <p>But yet it's not inconsistent with reason, to say, that he who would infallibly have dyed of a Gangreen in his Leg, hath had his Life prolonged, when his Leg was cured.</p>
+               <p>Or that a Consumptive Body hath been saved from death, when restored to a healthful state by a Medicinal dyet, which hath added Oil to the lamp of Life.</p>
+               <p>The Nectar and Ambrosia of the Poets, which kept their gods from growing old, seems to be a figure of the Tree of Life; which was a restorer of nature, as well as a Symbol of future things.</p>
+               <pb n="17" facs="tcp:207583:12"/>
+               <p>If Life consists in the union of heat and moisture, and Death ap<g ref="char:EOLhyphen"/>procahes by the predominance of the contrary quality, <hi>viz.</hi> cold and dryness; Why may not such means as preserves the former, and keeps back the latter, have a natural tendency to prolong Life? alway supposing the Energie of all natural operations to depend upon a supernatural influence.</p>
+               <p>Suppose we, with <hi>Pythagoras,</hi> That Life is a straight line, and that the accidents which disturb it, and at length bring Death, constitute another line; and as these two Lines incline less or more one towards another, Death approaches sooner or later; and consequently Life is longer or shorter. Yet, may we not sup<g ref="char:EOLhyphen"/>pose that Divine providence, and humane prudence, may probably conduce towards the retarding the neighborhood of these Lines?</p>
+               <p>Or suppose with the Chymists,
+<pb n="18" facs="tcp:207583:13"/> That Life consists in a volatile <hi>Armoniack, Sal.</hi> Why may we not suppose that Art improved may compose such fixed <hi>Alkali</hi> as may stop the wingy motions of the former Volatile?</p>
+               <p>It doth not seem probable, that means may be used with good success, to answer all other inten<g ref="char:EOLhyphen"/>tions in nature, and be used in vain in the attaining that which is the most desirable thing in nature, and which that renders a Man ca<g ref="char:EOLhyphen"/>pable of perfection in all Arts and Sciences, <hi>viz.</hi> Health.</p>
+               <p>As Fire dies for want of Air, and is extinguisht when the flame is suffocated; so doth our vital flame.</p>
+               <p>As our spirits are repaired by Air, so are our sanguine humours by Aliments.</p>
+               <p>Surely 'twas not without rea<g ref="char:EOLhyphen"/>son, that <hi>Naom</hi> was foretold, <hi>O<g ref="char:EOLhyphen"/>bed</hi> should be restorer of her age.</p>
+               <p>Physitians, they are the Instru<g ref="char:EOLhyphen"/>ments
+<pb n="19" facs="tcp:207583:13"/> of the Divine Omnipo<g ref="char:EOLhyphen"/>tence, renewing the lives of men.</p>
+               <p>Much may be done by Art for the retarding the course of nature, as may be seen in many Insects and Animals, and in men restored from Consumptive pine<g ref="char:EOLhyphen"/>ing sicknesses, their flesh becom<g ref="char:EOLhyphen"/>ing like that of Children, as in <hi>Naamans</hi> case; the efficacy of Remedies with some, is so great, that their youth is as it were re<g ref="char:EOLhyphen"/>newed as the Eagle; their natu<g ref="char:EOLhyphen"/>ral strength not abating at a great Age.</p>
+               <p>Certainly King <hi>David</hi>'s depart<g ref="char:EOLhyphen"/>ing from <hi>Keylat,</hi> diverted <hi>Sauls</hi> rage, and preserved his own Life for that time.</p>
+               <p>Our blessed Saviours own pra<g ref="char:EOLhyphen"/>ctice, in preserving himself until the time he knew that his hour was come, is recorded for our imitation; and doth plain<g ref="char:EOLhyphen"/>ly prove that Life may be pro<g ref="char:EOLhyphen"/>longed.</p>
+               <pb n="20" facs="tcp:207583:14"/>
+               <p>Notwithstanding the lives o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all the Mariners in the Ship were promised to be spared by that God who cannot lye; yet that promise was annexed unto their abiding in the Ship.</p>
+               <p>The wisdom of <hi>Joseph</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> in observing the Angels ad<g ref="char:EOLhyphen"/>vice, and flying into <hi>Egypt</hi> with the blessed Babe, in all human probability prevented his death at <hi>Bethlehem.</hi>
+               </p>
+               <p>It is thought that the prohibi<g ref="char:EOLhyphen"/>tion of some kinds of meats under the Law, was not only upon a Moral, but partly upon a Physi<g ref="char:EOLhyphen"/>cal account, yielding no good nutriment, but proving injurious unto the lives and healths of men<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <p>The Centurion importuned our Saviour to cure his Servant<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which he would never have done<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> had it not probably conduced to<g ref="char:EOLhyphen"/>ward the prolongation of hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Life.</p>
+               <p>Another mistake, and certainly
+<pb n="21" facs="tcp:207583:14"/> not a little destructive unto the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ives and healths of men, is, that Medicines operate by a natural E<g ref="char:EOLhyphen"/>nergie infused into them in their first creation only, and have no dependance upon a Divine con<g ref="char:EOLhyphen"/>curring influence, and especial blessing unto particular persons; whereas the contrary is most ap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arent: And we find that many <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>imes the best Remedies are used, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he best advice taken, and most <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>xact circumstances observed, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll in vain. Whence should this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roceed, but from a suspension of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Divine concourse?</p>
+               <p>Some of the Ancients tell us, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat the Cures wrought at the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ool of <hi>Bethesda,</hi> were not ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>raordinary, but natural; be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ause the Pool adjoyned unto the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>laughter-house, and it did con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>st of the Blood of the sacrificed <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>easts, which by Naturalists is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>id to be of a healing nature. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut yet we may very well sup<g ref="char:EOLhyphen"/>pose
+<pb n="22" facs="tcp:207583:15"/> the necessity of a Divine An<g ref="char:EOLhyphen"/>gelick influence to this, the Poo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> whereby became efficatious.</p>
+               <p>Indeed our blessed Saviour cu<g ref="char:EOLunhyphen"/>ring the Blind-man with temper<g ref="char:EOLunhyphen"/>ed Clay, may seem highly ratio<g ref="char:EOLunhyphen"/>nal, that being the fittest ingredi<g ref="char:EOLunhyphen"/>ent to restore a defective part out of which the whole was a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> first composed: Yet that render the Cure no less miraculous.</p>
+               <p>
+                  <hi>Naamans</hi> washing in <hi>Jordan</hi> Se<g ref="char:EOLunhyphen"/>ven times, was a natural Reme<g ref="char:EOLunhyphen"/>dy, though attended with super<g ref="char:EOLunhyphen"/>natural success.</p>
+               <p>And the Wine and Oil poure into the wounds of the distresse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Stranger by the good <hi>Samaritan</hi> was specifically appropriated yet the success depended upon superior influx.</p>
+               <p>A Plaister of Figs applyed unt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Hezekiah's</hi> Plague-sore, was a ra<g ref="char:EOLunhyphen"/>tional Remedy, being proper t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mollify hard tumours in the fles<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and to ripen Imposthumes.</p>
+               <pb n="23" facs="tcp:207583:15"/>
+               <p>There was a very rational con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ormity between the leprous con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>agion, and the law of cleansing. The Leprosy did putrifie the skin, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd opposite unto that was Ce<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ar-wood, commended by Natu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>alists against Putrefaction. It was of an offensive colour, op<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>osite unto that was the Colour of Scarlet; of an ill scent, contra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y unto that was the smell of Hy<g ref="char:EOLhyphen"/>sop; it did usher in death, con<g ref="char:EOLhyphen"/>trary thereunto was the Sparrow let loose, significant sign of recovery. Because sometimes im<g ref="char:EOLhyphen"/>pious men spin out the Thred of their lives: Therefore to imagine it contradicts the observation, that Faith and piety prolong Life, is a great mistake. For sometimes a long and a wicked Life may be twisted together, for some rea<g ref="char:EOLhyphen"/>sons best known unto Divine Wis<g ref="char:EOLhyphen"/>dom; as <hi>Manasseh</hi> reigned longest of any of the Kings of <hi>Judah:</hi> Sometimes the sinner may live to
+<pb n="24" facs="tcp:207583:16"/> be a Hundred years old, and y<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be accursed: The Posterity<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Cain</hi> were longer liv'd than a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the Patriarchs, being reserv<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to be punished in the general D<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>luge.</p>
+               <p>A fond opinion, and a gre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mistake it is, of some, that Becau<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Divine Wisdom hath appoint<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the periods of our days, ther<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fore to suppose we cannot be i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>strumental either towards th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lengthning or shortning of th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> same. The Jews were wickedl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> instrumental in taking away th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> life of the Lord of Life, notwith<g ref="char:EOLunhyphen"/>standing they did nothing bu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> what Divine goodness had deter<g ref="char:EOLunhyphen"/>mined before to be done; ther<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> was no fatal necessity imposed up<g ref="char:EOLunhyphen"/>on their wills.</p>
+               <p>Sometimes Divine Wisdom bes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> knowing his own reasons, doth resolve the death of some persons, unless the moral Cause of the Di<g ref="char:EOLhyphen"/>stemper be removed, as well as
+<pb n="25" facs="tcp:207583:16"/> the natural; and then the most <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roper Remedies are used in vain, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ither towards the preservation of Health, or the removal of Sick<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ess.</p>
+               <p>King <hi>David</hi> understood that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he determination concerning the Childs death was past; yet he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rayed, and probably used means <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o prevent it.</p>
+               <p>The Creator and Conserver of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll things in the Universe, takes notice of the principal and subse<g ref="char:EOLhyphen"/>quent causes of things; governing, disposing, and ordering, according unto his own free will: And yet all this Government seems to be void of any fatal violence, and comes to an efficiency from the ordina<g ref="char:EOLhyphen"/>tion of various natural causes; which by human elections in na<g ref="char:EOLhyphen"/>tural things, prove the occasions either of supporting or destroy<g ref="char:EOLhyphen"/>ing Life.</p>
+               <p>Divine goodness doth not a<g ref="char:EOLhyphen"/>bolish, but disposeth of future
+<pb n="26" facs="tcp:207583:17"/> contingencies, without nulling the freedom of the Agent. The Creator is not obliged unto neces<g ref="char:EOLhyphen"/>sity, but moderateth things and events according unto his own pleasure; and yet suffereth them to exercise their own proper mo<g ref="char:EOLhyphen"/>tions, electing what seems bes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> (especially in externals); &amp; herein the cause answers unto the effects▪ if the effects be necessary, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> causes are so likewise; and in thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sense, the Life of Man and its period, may be said to be determi<g ref="char:EOLhyphen"/>ned: And yet Man may be instru<g ref="char:EOLhyphen"/>mental towards the contracting his own days.</p>
+               <p>Moreover there are certain Practices which have a natural tend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ney towards Life or Death; and this the inspired Pen-man in<g ref="char:EOLhyphen"/>timates, when he tells us, That righteousness tendeth unto Life, and he that pursueth evil, pursu<g ref="char:EOLhyphen"/>eth it unto his own death; and although there are frequent pro<g ref="char:EOLhyphen"/>mises
+<pb n="27" facs="tcp:207583:17"/> of long Life made unto the obedient, it doth not infringe the verity of holy <hi>Jobs</hi> assertion, That our days are determined. When the Prophet told <hi>Amaziah,</hi> he knew God had determined to de<g ref="char:EOLhyphen"/>stroy him, he tells him moreover, that he was instrumental to<g ref="char:EOLhyphen"/>wards his own death, in not hearkning unto the voice of the Lord.</p>
+               <p>And <hi>Eli</hi>'s Sons disobedience, pro<g ref="char:EOLhyphen"/>nounced the sentence of Death against them, and it is rendered as the reason why God had re<g ref="char:EOLhyphen"/>solved to slay them.</p>
+               <p>The date of the old Worlds duration was fixed unto One hun<g ref="char:EOLhyphen"/>dred and twenty years; yet we find it was not so long liv'd by Twenty years, their wickedness contracting that, which seem'd a determined period: Therein declaring, that at what time Di<g ref="char:EOLhyphen"/>vine wisdom shall speak concern<g ref="char:EOLhyphen"/>ing a Nation, or People, to pluck
+<pb n="28" facs="tcp:207583:18"/> up, or to destroy; if that Natio<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or People turn from their evil way, he will turn from intended evil.</p>
+               <p>A great mistake it is, to imagine that the manner and moments o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> mens death, are the effects of con<g ref="char:EOLhyphen"/>tingency; whereas it is most cer<g ref="char:EOLhyphen"/>tain they come under the disposal and appointment of a wise over<g ref="char:EOLhyphen"/>ruling providence.</p>
+               <p>As a Sparrow doth not fall un<g ref="char:EOLhyphen"/>to the ground, so a Man doth not, without a special permission. The flight of that Arrow which pro<g ref="char:EOLhyphen"/>cured <hi>Ahabs</hi> death, was guided by a Divine hand, who aimed at his mortal wound; yet his rash going to Battel, by the advice of his false Prophets, rendered, him in<g ref="char:EOLhyphen"/>strumental towards his own death and ruine.</p>
+               <p>The Evangelical Prophet tells us of a Consumption determined upon the whole earth, occasioned by their great provocations.</p>
+               <p>We find <hi>Abimelech</hi> and his Fa<g ref="char:EOLhyphen"/>mily
+<pb n="29" facs="tcp:207583:18"/> smitten with sickness, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>reatned with death, but not <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ithout a moral cause.</p>
+               <p>And very often are the Jews <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>alled upon to observe the Divine Laws, lest they dye for prophane<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng them.</p>
+               <p>And the Prophets are frequent<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> threatned with death, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hall presume to speak without a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mission from Heaven.</p>
+               <p>
+                  <hi>Manoahs</hi> Wife made a very pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>able conjecture, That God did <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ot design to slay her and her Husband, because of his graci<g ref="char:EOLhyphen"/>ous appearance unto them.</p>
+               <p>The Jewish Rabbins tell us of one going to gather his Remedy prescribed by <hi>Solomon,</hi> against his particular distemper, was met by an apparition of Death, in the shape of a Schelliton; and it told him with an audible voice, it was too late, for he was struck by the Angel who kept the Key of the Grave. <hi>The meaning is obvious.</hi>
+               </p>
+               <pb n="30" facs="tcp:207583:19"/>
+               <p>Natural Remedies, they are bu<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> like <hi>Elijahs</hi> staff layd upon the Child, they will not restore unto life and health, unless a superna<g ref="char:EOLhyphen"/>tural virtue concur.</p>
+               <p>
+                  <hi>Marys</hi> supposition that the pre<g ref="char:EOLhyphen"/>sence of her Saviour would have kept her Brother from dying, was not altogether groundless, though she was under a mistake, with re<g ref="char:EOLhyphen"/>ference unto that present dispen<g ref="char:EOLhyphen"/>sation.</p>
+               <p>The practice of true Piety, and serious Christianity, are great friends unto the health of nature.</p>
+               <p>There are attending the Divine Life, leisurely contemplations of heavenly things, joys refined from the dregs of sensuality, hopes of a noble and generous nature, wholesom, sweet, and comfortable fears; an universal harmony in all the Passions: and from hence by the favour of Di<g ref="char:EOLhyphen"/>vine clemency, Health spring<g ref="char:EOLhyphen"/>eth forth speedily.</p>
+               <pb n="31" facs="tcp:207583:19"/>
+               <p>The Fable of the Kite when sick, imploring help and recovery, and being denyed, by reason of her rapine and mischief, it affords an excellent moral.</p>
+               <p>The breaking off our sins by righteousness, many times proves a lengthening of our temporal Life and tranquility.</p>
+               <p>
+                  <hi>Plato</hi>'s observation is excellent<g ref="char:EOLhyphen"/>ly true, that all the mischiefs of the Body proceed from the Soul, and all its truest pleasures from the joy of the mind.</p>
+               <p>We have a memorable modern relation of a Consumptive person cured after Four years languish<g ref="char:EOLhyphen"/>ment, by a prescription of an An<g ref="char:EOLhyphen"/>gelical Apparition, joyned with a moral duty, to fear God and serve him.</p>
+               <p>The Jewish Doctors say, that <hi>Adam</hi> felt no cold, notwithstand<g ref="char:EOLhyphen"/>ing he was naked, because he had communion with God; and as soon as ever he eat the forbidden
+<pb n="32" facs="tcp:207583:20"/> fruit, his Head aked.</p>
+               <p>Were it the Divine pleasure to give men a constant frame of Health during their Pilgrimage, it were a great favour; but our impieties, like <hi>Hazaels</hi> wet cloth, prove fatal unto us, and moulder on these bodyes of ours, whose feet like <hi>Nebuchadnezzar</hi>'s Image, are made of clay; Man being but earth, as the Prophet tells us three times in one breath, when he saith, <hi>O earth, earth, earth, hear the word of the Lord.</hi>
+               </p>
+               <p>Repentance, often proves an excellent Antidote against sick<g ref="char:EOLhyphen"/>ness and death.</p>
+               <p>
+                  <hi>Jezabel</hi> is threatned for her im<g ref="char:EOLhyphen"/>penitency to be cast into a Bed, and her Children to be killed with death. Good men may dye, but they cannot be killed with death.</p>
+               <p>The <hi>Israelites</hi> repentance pro<g ref="char:EOLhyphen"/>ved a soveraign plaister against the stings of the fiery Serpents.</p>
+               <p>And King <hi>Davids</hi> remorse, pre<g ref="char:EOLhyphen"/>vailed
+<pb n="33" facs="tcp:207583:20"/> with the destroying Angel <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o sheath his Sword, after the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aughter of Seventy thousand <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eople.</p>
+               <p>
+                  <hi>Rehoboams</hi> penitence at the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>reaching of <hi>Shemaiah,</hi> prevented <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he destruction of himself and his Princes.</p>
+               <p>When mens flesh is consumed, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd they are afflicted with strong <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ains upon their Beds, then the Almighty looks upon men, to see if any say they have sinned, and perverted that which is right, to deliver them from going down into the Pit, that their lives may see the Light.</p>
+               <p>When the Divine hand binds men with fetters, and holds them in the cords of affliction, then he shews them their work, and their transgressions that they have ex<g ref="char:EOLhyphen"/>ceeded; then he opens their ears unto discipline, and commands that they return from iniquity; and if they obey and serve him,
+<pb n="34" facs="tcp:207583:21"/> they shall spend their days in pro<g ref="char:EOLhyphen"/>sperity, and their years in plea<g ref="char:EOLhyphen"/>sure; but if they obey not, they shall dye in their youth without knowledg; for God preserveth not the Life of the wicked, as <hi>E<g ref="char:EOLhyphen"/>lihu</hi> tells <hi>Job.</hi>
+               </p>
+               <p>Did men but consider the na<g ref="char:EOLhyphen"/>ture of Man in this state of mor<g ref="char:EOLhyphen"/>tality, and observe the wonder<g ref="char:EOLhyphen"/>ful composure of their Bodies, the scituation of the parts, the circulation of the Blood, the se<g ref="char:EOLhyphen"/>veral meanders of the veins and nerves, and the curious distribu<g ref="char:EOLhyphen"/>tion of our aliment into flesh; they might easily perceive how small an obstruction would stop their breath, and how inconsi<g ref="char:EOLhyphen"/>derable an inflamation would send us into another World as in a fiery Chariot, and how little a putrefaction would crumble us into our first original, if we were not supported by an Omnipotent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd; and instead of wondering
+<pb n="35" facs="tcp:207583:21"/> we live no more in health, we should admire we live an hour in ease.</p>
+               <p>As an exact observance of the eternal Laws of truth and good<g ref="char:EOLhyphen"/>ness, are the best way to render Remedies effectual; so the con<g ref="char:EOLhyphen"/>trary renders them unsuccesful towards Health, or long Life, as we find plainly exemplified in most of the wicked Kings of <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> and <hi>Israel,</hi> as <hi>Abijam, Atha<g ref="char:EOLhyphen"/>liah, Ahaziah, Nadab, Elah, Omri,</hi> and many others, who reigned but Two, Three, or Four years a piece; and the Reasons are sometimes recorded, that it was for there sins which they sin<g ref="char:EOLhyphen"/>ned, they shortning their lives with their Kingdoms, in whom sin, and a sudden death, reigned together.</p>
+               <p>He that prophaned the Sabbath under the Levitical dispensation, occasioned the beating his Soul out of his Body.</p>
+               <pb n="36" facs="tcp:207583:22"/>
+               <p>St. <hi>Anselm</hi> observes, that the Reason why Diseases abounded so much in the Summer, was be<g ref="char:EOLhyphen"/>cause the Holy Eucharist was ir<g ref="char:EOLhyphen"/>reverently received at <hi>Easter</hi> in his time.</p>
+               <p>When our Saviour cured the Man sick of a Palsie, he forgave him his sins, to convince him that they were the cause of his sickness.</p>
+               <p>The life of Man is swift as a Weavers Shuttle; especially if wickedness be interwoven, Di<g ref="char:EOLhyphen"/>vine Justice cuts the Web.</p>
+               <p>Infidelity doth as it were tye up the hands of Omnipotence, and sets bounds unto the opera<g ref="char:EOLhyphen"/>tions of his mighty works on mens Bodies.</p>
+               <p>The Jews who came out of <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> except <hi>Caleb</hi> and <hi>Joshua,</hi> dyed before they came into <hi>Ca<g ref="char:EOLhyphen"/>naan, viz.</hi> that they might not introduce Egyptian innovations, and to chastise their rebellious
+<pb n="37" facs="tcp:207583:22"/> murmurings; and very often <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hey are threatened with sore sick<g ref="char:EOLhyphen"/>nesses, and wonderful Plagues, if they did not hearken to the Di<g ref="char:EOLhyphen"/>vine Law.</p>
+               <p>It's no wonder to see a strange punishment happen unto the workers of iniquity; nothing doth more conduce toward the preservation of our natural health, than our living the Divine Life; but when our ex<g ref="char:EOLhyphen"/>pectations and actions are wholly imployed in the gratifications of the animal Life, we do but pre<g ref="char:EOLhyphen"/>pare for the messengers of the Grave.</p>
+               <p>What <hi>Solomon</hi> observes of wealth and victory, may truly be said of Health and recovery, it depends not so much on natural as on Divine influences.</p>
+               <p>The wantonness of the Levite's Wife, occasioned a second rape by the <hi>Gibeonites;</hi> so when their lust had conceived, it brought
+<pb n="38" facs="tcp:207583:23"/> forth sin, and their sin bein<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> finished brought forth death.</p>
+               <p>
+                  <hi>Eutichus</hi> for sleeping at a Ser<g ref="char:EOLhyphen"/>mon, had by his fall almost step<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> until awaked by the last Trumpet, had he not been miraculously rai<g ref="char:EOLhyphen"/>sed by St. <hi>Paul.</hi>
+               </p>
+               <p>Many of the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> were sick and weak, and lost their lives, for their unwor<g ref="char:EOLhyphen"/>thy receiving the Bread of Life; and if men contemn the sacred Body of Christ, how can they expect God should take care of their Bodies? and if they make no reckoning of Christs death, its just with God to disregard their lives.</p>
+               <p>
+                  <hi>Pharoah</hi> was plagued exceed<g ref="char:EOLhyphen"/>ingly, for being too familiar with <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rahams</hi> Wife; when she was restored unto her Husband, he was restored to his Health.</p>
+               <p>
+                  <hi>Miriams</hi> sedition raised a Tu<g ref="char:EOLhyphen"/>multuous disturbance in the har<g ref="char:EOLhyphen"/>mony of her health. The dissi<g ref="char:EOLhyphen"/>mulation
+<pb n="39" facs="tcp:207583:23"/> of <hi>Gehaza</hi>'s tongue, procured the Leprosy upon his skin; <hi>Ʋzziah</hi>'s invading the Priests Office, and burning in<g ref="char:EOLhyphen"/>cense, caused the Divine displea<g ref="char:EOLhyphen"/>sure to smoak against him, ma<g ref="char:EOLhyphen"/>king his beauty to consume away like a Moth.</p>
+               <p>
+                  <hi>Hananiah's</hi> false Prophets, did but predict his own destruction and death.</p>
+               <p>
+                  <hi>Ahaziah</hi>'s evil consultation with the God of <hi>Ekron,</hi> to know whether he should recover of his sickness, made his Disease prove incurable.</p>
+               <p>
+                  <hi>Pharoah</hi>'s persecution ended in his own destruction and drown<g ref="char:EOLhyphen"/>ing.</p>
+               <p>
+                  <hi>Ahab</hi> by his cruelty, became cruel unto his own Life.</p>
+               <p>The <hi>Samaritan</hi> Lords infideli<g ref="char:EOLhyphen"/>ty, pressed his Soul out of his Body.</p>
+               <p>The calumniating rage of the Children against the good old
+<pb n="40" facs="tcp:207583:24"/> Prophet, provoked the rage of the Bears to devouer their Bo<g ref="char:EOLhyphen"/>dies.</p>
+               <p>
+                  <hi>Herod</hi>'s vain-glorious ostenta<g ref="char:EOLhyphen"/>tion, brought such a Disease up<g ref="char:EOLhyphen"/>on his Body, of which he had no reason to boast.</p>
+               <p>The pride of the Daughters of <hi>Zion,</hi> changed their sweet smell into a stink, and their well-set Hair into baldness.</p>
+               <p>
+                  <hi>Sapphira</hi>'s Perjury, summoned the feet of those who had carried her Husband to his Grave, to carry her to the same place.</p>
+               <p>
+                  <hi>Benhadads</hi> curiosity, proved the fatal Messenger of his death; the Prophet returning answer, that he might recover, but should surely dye.</p>
+               <p>
+                  <hi>Jeroboam</hi>'s Idolatry, and pray<g ref="char:EOLhyphen"/>ing unto false gods, provoked the true God to stop his breath.</p>
+               <p>
+                  <hi>Saul</hi>'s disobedience unto his maker, crumbled him into dust.</p>
+               <p>
+                  <hi>Belshazzar</hi> for his riotous re<g ref="char:EOLhyphen"/>velling,
+<pb n="41" facs="tcp:207583:24"/> by a bodyless hand<g ref="char:EOLhyphen"/>wrighting upon a wall, had the end of his Life and Kingdom de<g ref="char:EOLhyphen"/>nounced against him.</p>
+               <p>When <hi>Nadab</hi> and <hi>Abibu</hi> offered strange fire, a stranger fire is sent to consume them.</p>
+               <p>Because good-men immaturely dye, to infer Piety hath no influ<g ref="char:EOLhyphen"/>ence upon the prolongation of Life, is a great mistake.</p>
+               <p>The Carkasses of good Israel<g ref="char:EOLhyphen"/>ites may fall in the wilderness of this World, and yet their Souls may be entertained in the Hea<g ref="char:EOLhyphen"/>venly <hi>Canaan.</hi>
+               </p>
+               <p>A good Prophet for some sin<g ref="char:EOLhyphen"/>gle act of disobedience, may be made a prey unto a devouring Lyon, and yet his Soul be recei<g ref="char:EOLhyphen"/>ved into everlasting habitations.</p>
+               <p>If an <hi>Eli</hi> neglect to chastize his rebellious Children, he may be permitted to break his neck, and yet may enter into Life nei<g ref="char:EOLhyphen"/>ther maimed nor halt.</p>
+               <pb n="42" facs="tcp:207583:25"/>
+               <p>When <hi>Ʋzzah</hi> shall touch th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ark without a commission, hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> death shall immediately succee<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his rashness.</p>
+               <p>When a <hi>Moses</hi> shall neglect to circumcise his Child, an Ange<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> shall threaten his Life with a drawn Sword.</p>
+               <p>Many times judgment begins at the House of God, and he makes good men examples of his severity in this Life.</p>
+               <p>Evil Angels may contend with good ones, about the bodies of good men; but their Souls shall be kept free from danger.</p>
+               <p>It is thought that King <hi>Davids</hi> numbering the people, was the best act he did, before he took his Bed.</p>
+               <p>
+                  <hi>Sampson</hi> lost his natural strength by his disobedience and viola<g ref="char:EOLhyphen"/>tion of his vow, rather than by his cutting of his Hair; it being rather a moral, than a natural cause of his weakness.</p>
+               <pb n="43" facs="tcp:207583:25"/>
+               <p>The fretful, though holy Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>het <hi>Jonah,</hi> going contrary unto <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Divine command, had almost <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>een swallowed up by death, as well as by the Whale.</p>
+               <p>But sometimes the sickness of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Body, may be sent to pro<g ref="char:EOLhyphen"/>mote the health of the Soul; as the Leprosie on <hi>Naamans</hi> flesh, may conduce towards the whiten<g ref="char:EOLhyphen"/>ing of his mind.</p>
+               <p>Sicknesses are sometimes Pro<g ref="char:EOLhyphen"/>batory as well as Punative, some<g ref="char:EOLhyphen"/>times both; and they are sent as the Tryals of grace, and are de<g ref="char:EOLhyphen"/>claratives of Divine Mercy.</p>
+               <p>It was a remarkable question that was asked our Saviour, Who sinned, this Man or his Parents, that he was born blind? His an<g ref="char:EOLhyphen"/>swer we know was, It was for the declaration of Divine Mercy, ra<g ref="char:EOLhyphen"/>ther than either of the former rea<g ref="char:EOLhyphen"/>sons, as the sickness of his friend <hi>Lazarus,</hi> was for the Glory of God, that the work of Divine Power
+<pb n="44" facs="tcp:207583:26"/> might be manifest in his restau<g ref="char:EOLhyphen"/>ration.</p>
+               <p>The Righteous may sometimes be taken away from the evil to come, as the good Patriarchs were before the Flood, and as <hi>A<g ref="char:EOLhyphen"/>bijah</hi> was laid to sleep, before the calamity of his Fathers House; sometimes the Child may derive those distempered humours from its Parent, which may prove the occasion of its death: though God hath promised long Life un<g ref="char:EOLhyphen"/>to them that obey, yet he hath never promised, that he would not sometimes, as it were, bor<g ref="char:EOLhyphen"/>row good mens natural lives, and make a happy exchange, making good his promise, and answering other ends of his pro<g ref="char:EOLhyphen"/>vidence, by recompencing the loss of a Temporal, with the grant of Eternal Life.</p>
+               <p>When the extraordinary means of understanding Tongues ceased, men made use of rational
+<pb n="45" facs="tcp:207583:26"/> and ordinary methods, to become acquainted with Languages, <hi>viz.</hi> Schools of Literature, and indu<g ref="char:EOLhyphen"/>strious educations.</p>
+               <p>Even so now the miraculous ways of curing Diseases are blockt up, Men are to apply themselves unto rational Methods, and such as have the most natural tendency towards the accomplishment of that end, and the fairest prospect of probability; and they are such as follow, <hi>viz.</hi> the advice and counsel of able, learned, and ex<g ref="char:EOLhyphen"/>perienced Physitians, whose na<g ref="char:EOLhyphen"/>tural abilities are advanced by ingenious education, and their universal learning confirmed by experience; such being most fit to rectify the disorders in mens Bodies, who by their enquiry into Anatomy, understand the particular parts of the same; and taking notice of the scituations, structures and figures of the springs and wheels by which na<g ref="char:EOLhyphen"/>ture
+<pb n="46" facs="tcp:207583:27"/> moves, they are the bette<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> enabled to regulate her disorderly motions: And they understand<g ref="char:EOLunhyphen"/>ing the natures of Animals, Mi<g ref="char:EOLunhyphen"/>nerals and Vegitables, can th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> more dextrously apply fit reme<g ref="char:EOLhyphen"/>dies, according unto the severa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> indications of distempers, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> circumstances of Patients.</p>
+               <p>Physitians best understanding the natures of Air, and Meats and Drinks; are best able to di<g ref="char:EOLhyphen"/>rect to such natural Rules as ar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> most conservative of Health.</p>
+               <p>To suppose the art of Physic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to be useless, because it is not in<g ref="char:EOLhyphen"/>fallible, is very unreasonable; fo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> were Physitians infallible, the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> might make men immortal, an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> so alter the statute-Laws of Hea<g ref="char:EOLhyphen"/>ven, by which the nature c<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> man is subjected unto death.</p>
+               <p>As in Divinity, the most sacred institutions are insignificant unt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Souls of men, if not rightl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> received and applied; even so i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="47" facs="tcp:207583:27"/> Physick, the most wholesom Re<g ref="char:EOLhyphen"/>medies are useless unto mens Bo<g ref="char:EOLhyphen"/>dies, if not used in a right man<g ref="char:EOLhyphen"/>ner; which chiefly consists in taking the Distemper in the be<g ref="char:EOLhyphen"/>ginning, before nature is wasted, and hath lost its helping-hand; and to persevere in a regular course, until the distemper be fully conquered.</p>
+               <p>How can men expect the con<g ref="char:EOLhyphen"/>course of a Divine Blessing to at<g ref="char:EOLhyphen"/>tend the advice of ignorant and unworthy pretenders unto Phy<g ref="char:EOLhyphen"/>sick, or of secret hazardous and Poysonous Medicines, which are exposed unto sale in every Corn<g ref="char:EOLhyphen"/>er? the directions for the use of them, being like King <hi>David</hi>'s Let<g ref="char:EOLhyphen"/>ter by <hi>Ʋriah,</hi> to give instructions for the ruine of the Patient.</p>
+               <p>The World is full of com<g ref="char:EOLhyphen"/>plaints, of the ineffectual appli<g ref="char:EOLhyphen"/>cation of Medicines; and the true cause thereof must arise from hence, That Men are so irregu<g ref="char:EOLhyphen"/>lar
+<pb n="48" facs="tcp:207583:28"/> and preposterous in the use o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the same.</p>
+               <p>Many there are in our Weekl<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Bills of Mortality, who sacrific<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> their lives unto their credulity and destroy their Bodies, as wel<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as their Souls, by an implicit<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Faith.</p>
+               <p>And whatever Medicine i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> gilded over with the pretences o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> rare and experienced, is cryed up<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and swallowed down, when it'<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> as common in the Shop, as Sal<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Pepper in a Kitchen.</p>
+               <p>Can Men expect preservation<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> when they willingly suffer thei<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Brains to be beaten out with the Bills of Mountebanks?</p>
+               <p>If any Man pretend unto a Se<g ref="char:EOLhyphen"/>cret, some are as ready to pro<g ref="char:EOLhyphen"/>claim it, as if they thought some good Angel, like <hi>Mahomets</hi> Pige<g ref="char:EOLhyphen"/>on, whispered it in their ear; when it often proves like Gun<g ref="char:EOLhyphen"/>powder, and blows up their Healths.</p>
+               <pb n="49" facs="tcp:207583:28"/>
+               <p>There are more dye of soft places in their Heads, than of Ul<g ref="char:EOLhyphen"/>cers in their Lungs; and multi<g ref="char:EOLhyphen"/>tudes dig their Graves with their thick Skulls.</p>
+               <p>How can men pray for a bles<g ref="char:EOLhyphen"/>sing upon the means, when they take such Mungril Physitians ad<g ref="char:EOLhyphen"/>vice, who can sooner cure all Diseases than one; especialy in such a Nation as ours is, where there is such great variety of able, learned, experienced and consci<g ref="char:EOLhyphen"/>entious Physitians? and by the wisdom of Authority, a Society of Apothecaries establisht, who have demonstrated unto the World their care to prevent a<g ref="char:EOLhyphen"/>buses in Medicines, by erecting a publick Elaboratory for the preparation of Chymical Reme<g ref="char:EOLhyphen"/>dies in the most exact manner; and using all prudential Methods to prevent deceits in Medicines?</p>
+               <p>There is nothing that denomi<g ref="char:EOLhyphen"/>nates a wise Man more, then use<g ref="char:EOLhyphen"/>ing
+<pb n="50" facs="tcp:207583:29"/> the best and most probable means to accomplish his ends: and nothing is more subservient unto happy conclusions, than prudent Counsels; but such is the preposterous practice of many a<g ref="char:EOLhyphen"/>mongst us, that it may not be imprudent to make an addition of one casualty more in our Weekly accounts of Mortality, <hi>viz.</hi> so many dyed Martyrs unto their Physitians ignorance; they taking the advice of some broken Tradesman, Disbanded Soldier, Bankrupt Merchant, <hi>&amp;c.</hi> the very scum of the People, whose Receipts prove equally fatal with the Jaw-bone of an Ass; such like <hi>Evah,</hi> or rather like the Serpent, pretending to give that which shall be good for Food and Physick, but in the end beguiling Men of their Health, and few days after the Patient dyes the death: As the Lyon in the Fable, that pretended to pull the Thorn
+<pb n="51" facs="tcp:207583:29"/> out of the Lambs foot, but in the end devoured it.</p>
+            </div>
+            <div n="51-105" type="pages">
+               <p>The Prescripts of an able and safe Physitian upon the File, ex<g ref="char:EOLhyphen"/>posed unto the view of the World, are more likely to be attended with the Blessing of Heaven, than the pretended Arcana's of such Mungril Practicers, who are glad to make use of privacy to conceal their ignorance, covetous<g ref="char:EOLhyphen"/>ness, and wickedness; and yet such is the folly of the vulgar, who are more apt to gaze upon a Blazing Comet that infects the Air, and poysons Men with pe<g ref="char:EOLhyphen"/>stilential vapors; than on the re<g ref="char:EOLhyphen"/>gular motion of the glorious Sun, whose cherishing beams, yield light and health unto humane na<g ref="char:EOLhyphen"/>ture.</p>
+               <p>Every Man is bound by the Law of God and Nature, to keep the Clayie Cottage of his Body in reparation: we being Tenants at the will of our great Landlord in
+<pb n="52" facs="tcp:207583:30"/> these Houses of Earth, we ought not to let them run to ruine through neglect, lest we expose our selves unto an inditement at the Bar of Heaven, for Dilapida<g ref="char:EOLhyphen"/>tions.</p>
+               <p>One of the most considerable Moral Rules to be observed, in order towards the procuring a Divine influence with natural Re<g ref="char:EOLhyphen"/>medies, is rightly to understand the Divine and Sacred original, and primary institution of Me<g ref="char:EOLhyphen"/>dicine: Our Blessed Saviour, the Physitian of Souls, was a Physi<g ref="char:EOLhyphen"/>tian of Bodies, and not only commended the good <hi>Samaritan;</hi> but acted the part of one through<g ref="char:EOLhyphen"/>out his own Life, healing all man<g ref="char:EOLhyphen"/>ner of sickness and diseases.</p>
+               <p>The Angellick Spirits think it not inferiour unto their Nature, to be instrumental to heal us mor<g ref="char:EOLhyphen"/>tals, by stirring the Pool of <hi>Be<g ref="char:EOLhyphen"/>thesda.</hi>
+               </p>
+               <p>St. <hi>Luke,</hi> who was the Evan<g ref="char:EOLhyphen"/>gelical
+<pb n="53" facs="tcp:207583:30"/>
+                  <hi>Amanuensis,</hi> and wrote a History of our Saviours Passion and Life, was a beloved Physiti<g ref="char:EOLhyphen"/>tian; and the Doctor of the Gentiles prescribes Wine as a chearing Cordial unto his <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> under his frequent infirmi<g ref="char:EOLhyphen"/>ties for his health sake.</p>
+               <p>The holy Prophet reflecting upon the deplorable condition of the Church, with the whole Head sick, and heart faint, full of wounds, bruises, and putrefa<g ref="char:EOLhyphen"/>ctions, being not bound up, nor molified with Ointments; doth plainly intimate, how necessary he thought the natural, as well as the spiritual application of fit Remedies; lamenting there was no Balm in <hi>Gilead,</hi> nor no Phy<g ref="char:EOLhyphen"/>sitian there.</p>
+               <p>
+                  <hi>Jothans</hi> Parable may instruct the World, that not only the O<g ref="char:EOLhyphen"/>live, the Fig-tree and the Vine, are useful to chear the heart of God and Man; but also the
+<pb n="54" facs="tcp:207583:31"/> Bramble hath a healing virtue in some distempers.</p>
+               <p>Since the appearance of the se<g ref="char:EOLhyphen"/>cond <hi>Adam,</hi> we may eat of every Tree in the Garden, asking no question for Conscience sake, the earth being the Lords, and the fulness thereof.</p>
+               <p>The wonderful work of pro<g ref="char:EOLhyphen"/>vidence is apparent, in preserving the Seminal virtues of Plants in the Deluge, when we read not of any Seed secured in the Ark: The innocent Dove shewing a Leaf unto the new World, preacht a Sermon of Divine good<g ref="char:EOLhyphen"/>ness.</p>
+               <p>The Utility of Physical Reme<g ref="char:EOLhyphen"/>dies, is not only demonstrated by Christians, but by Jews and Pa<g ref="char:EOLhyphen"/>gans. In the Temple of <hi>Ascu<g ref="char:EOLhyphen"/>lapius,</hi> there was a Fountain of Oil, with a Golden Arch, a perfect Symbol of Physick, de<g ref="char:EOLhyphen"/>noting its usefulness and honour.</p>
+               <p>The design of Medicines, is
+<pb n="55" facs="tcp:207583:31"/> not to prevent death, but to render Life comfortable, and to preserve Natures lamp burning, until there is no more Oil left to feed it; that we may have the better op<g ref="char:EOLhyphen"/>portunity to secure our eternal estate.</p>
+               <p>Health is the prime outward blessing, it is the comfort of the Rich, and the riches of the Poor; if it had been to procure any thing else, that the Woman in the Gospel spent all her living, she migh justly have been blamed.</p>
+               <p>The Son of <hi>Syrach</hi> counsels Men, to honour the Physitian with that honour due unto him; telling us, God hath created him, and hath given Men skill, that he might be honoured in his marvellous works, with the Me<g ref="char:EOLhyphen"/>dicines which he hath created out of the earth, to heal Men, and take away their pains.</p>
+               <p>
+                  <hi>Apollo</hi> and <hi>Aesculapius,</hi> amongst the <hi>Greeks</hi> were adored as gods,
+<pb n="56" facs="tcp:207583:32"/> for the excellency of their inven<g ref="char:EOLhyphen"/>tion in Physick.</p>
+               <p>St. <hi>James</hi> placeth our visiting the sick, amongst the parts of that pure Religion which is undefiled before God.</p>
+               <p>And our blessed Saviour, numbers this Christian Duty a<g ref="char:EOLhyphen"/>mongst those good works, ac<g ref="char:EOLhyphen"/>cording unto which, we shall re<g ref="char:EOLhyphen"/>ceive our final sentence.</p>
+               <p>The knotty staff, the Serpent, the Pine-Apple, the Dragon, the Dog and the Cock, with which the Portraiture of <hi>Aesculapius</hi> was beautified, were not insignificant Symbols.</p>
+               <p>Medicine hath by Barbarous Nations, been accounted Sacred. The Priests of <hi>Memphis</hi> were bound to write in the Temple of <hi>Isis,</hi> such Remedies as were found effectual.</p>
+               <p>The same Practice the <hi>Greeks</hi> used at the Temple of <hi>Apollo,</hi> authorizing Medicine, by Religi<g ref="char:EOLhyphen"/>on,
+<pb n="57" facs="tcp:207583:32"/> and converting Remedies in<g ref="char:EOLhyphen"/>to Oracles.</p>
+               <p>The Jewish Doctors tell us, That at the Gate of the Temple of <hi>Solomon,</hi> there hung a long Ca<g ref="char:EOLhyphen"/>talogue of the virtues of all Plants, collected by King <hi>Solomon</hi> him<g ref="char:EOLhyphen"/>self; so that if any were smitten with any Disease, he might go and gather his Remedy.</p>
+               <p>The holy Prophets in their de<g ref="char:EOLhyphen"/>scriptions of the Holy-Land, re<g ref="char:EOLhyphen"/>present the excellency thereof, from its abounding with Trees whose Leaves are good for Medi<g ref="char:EOLhyphen"/>cines.</p>
+               <p>He who breathed into Man the breath of Life, and by an eternal Law hath commanded him not to kill, but enjoyned him to pray for his daily Bread, with all the necessary supports of this Life; hath thereby laid an obligation upon him, to use all means to preserve both his own and others lives.</p>
+               <pb n="58" facs="tcp:207583:33"/>
+               <p>As the Jews by their particular Laws, were constrained to be at the charg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of cure unto any whom they had hurt or injured in their bodily health; much more ought men to be concerned for their own Health.</p>
+               <p>Although we live not by Bread alone, but by the word of bles<g ref="char:EOLhyphen"/>sing out of the mouth of God; yet the blessing is annext unto Bread, not unto Stones: He that shall expect to h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Stones turned into Bread, doth not trust but tempt his Maker, it being not Faith but Fury, to go down by a precipice, when Stairs are ap<g ref="char:EOLhyphen"/>pointed.</p>
+               <p>King <hi>Asa</hi> was not reprehended for advising with, but for trust<g ref="char:EOLhyphen"/>ing unto his Physitians, and ma<g ref="char:EOLhyphen"/>king them his end, who were but means; which was recorded to instruct us, that we should use means, as if there were no Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idence; and rely on Provi<g ref="char:EOLhyphen"/>dence,
+<pb n="59" facs="tcp:207583:33"/> as if there were no Means. When the Royal Prophet went against <hi>Goliah,</hi> trusting in the name of the Lord; yet he made use of his Sling to wound his Adversary.</p>
+               <p>Holy <hi>Jacob</hi> sent a present unto his Brother, to pacifie his unrea<g ref="char:EOLhyphen"/>sonable anger, as well as made supplication unto the great Peace<g ref="char:EOLhyphen"/>maker.</p>
+               <p>When Queen <hi>Hester</hi> appointed a Fast to implore the protection of the God of Heaven, in the behalf of the Jews lives; She neglected not to feast the King, that she might the more probably prevail.</p>
+               <p>St. <hi>Pauls</hi> Mariners could not expect preservation (notwith<g ref="char:EOLhyphen"/>standing the safety of their lives was promised him) except they did continue in the Ship.</p>
+               <p>The Bodies of good Men are the Temples of the Holy Ghost; and neglecting the same, is re<g ref="char:EOLhyphen"/>puted a part of will-worship,
+<pb n="60" facs="tcp:207583:34"/> and strictly prohibited.</p>
+               <p>
+                  <hi>Balaams</hi> Ass doth instruct the World, that a merciful Man should be merciful unto his Beast; how much ought he rather like the <hi>Shunamite</hi> woman, to take a journey to request help for a Child, whom Death seemeth to triumph over?</p>
+               <p>The Life is more worth than meat, and the Body than Rai<g ref="char:EOLhyphen"/>ment; nay, it's more worth than liberty; if the Jews had been sold for bondmen, they had held their peace, as they told the King, when their necks had almost been cut off at a blow.</p>
+               <p>The Father of Lyes never spake a greater truth, than when he said, <hi>Skin for skin, and all that a man hath, will he give for his life.</hi>
+               </p>
+               <p>It's a grand impiety, under a pretence of Gods Power, to be disobedient unto his Will, in neg<g ref="char:EOLhyphen"/>lecting means of Health; that's to try what he can do, and yet
+<pb n="61" facs="tcp:207583:34"/> neglect what he commands, in not administring those things which are necessary for the Body.</p>
+               <p>Those Bodies which are the Members of Christ, ought to have respect and care used towards them, that they may be more fit for the service of the Soul; as that which was sick was not to be offered in sacrifice under the Law, so those who are sick, are not fit to offer Sacrifices under the Go<g ref="char:EOLhyphen"/>spel.</p>
+               <p>The Soul sits uneasie in a dis<g ref="char:EOLhyphen"/>eased Body. When the Golden Bowl is broken, and the sound of the grinding is low, and the Pitcher is broken, at the Foun<g ref="char:EOLhyphen"/>tain, and the Wheel broken at the Cistern; then the Sun, and the Moon, and the Stars will be darkened.</p>
+               <p>King <hi>Solomon,</hi> who had a Patent granted him by the King of Hea<g ref="char:EOLhyphen"/>ven, to receive the greatest mea<g ref="char:EOLhyphen"/>sure of Wisdom of any Man be<g ref="char:EOLhyphen"/>fore
+<pb n="62" facs="tcp:207583:35"/> or after him, made it his bu<g ref="char:EOLhyphen"/>siness to search into the nature of Vegetables, from the tallest Cedar unto the Hysop that grows out of the Wall. Although his brow was incircled with a glittering Diadem, and his Gold was so plentiful as to pave his Palace, and he had all the delights of the Sons of Men, yet he condescended unto the study and improvement of Physick, and tells us there is a time to heal.</p>
+               <p>The Almighty Wisdom acts as it were the part of a good Phy<g ref="char:EOLhyphen"/>si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ian, and tells our Parent <hi>Adam,</hi> that every Herb bearing Seed, was good for food, being created for the service of Man.</p>
+               <p>The Sons of the Prophets had a Physical intention in gathering their Herbs, although it was at<g ref="char:EOLhyphen"/>tended with a mistake in the na<g ref="char:EOLhyphen"/>ture of the Plant; and we find that the Waters of <hi>Marah,</hi> were <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>endered wholsom by the casting
+<pb n="63" facs="tcp:207583:35"/> in medicinal ingredients.</p>
+               <p>
+                  <hi>Ahab</hi> understood the usefulness of a Garden of Herbs, when he so greedily coveted <hi>Naboths</hi> Vine<g ref="char:EOLhyphen"/>yard, to convert it into the same.</p>
+               <p>The good will of him that dwelt in the Bush, is further de<g ref="char:EOLhyphen"/>clared unto mankind, by the ver<g ref="char:EOLhyphen"/>tue which he hath planted in the leaves and fruit that grow there<g ref="char:EOLhyphen"/>on; being useful for the healing of the Nations, in a natural, as well as in a mystical sense.</p>
+               <p>Those persons who cut up <hi>Mallows</hi> by the roots in holy <hi>Jobs</hi> time, could not but understand their Medicinal virtue.</p>
+               <p>A Dinner of Herbs, with E<g ref="char:EOLhyphen"/>vangelical charity, is preferred by <hi>Solomon</hi> before a costly Ban<g ref="char:EOLhyphen"/>quet; and those medicinal Herbs of <hi>Mint, Rhue, Annise</hi> and <hi>Cum<g ref="char:EOLhyphen"/>min,</hi> were so much in use amongst the Jews, that they laid Tithes and customary impositions upon them.</p>
+               <pb n="64" facs="tcp:207583:36"/>
+               <p>It's probable that the bitter Herbs, appointed to be eaten with the Paschal Lamb, were not only Typical, but also Medicinal.</p>
+               <p>When the Church would make a metaphorical description of all the external and internal qualifi<g ref="char:EOLhyphen"/>cations of her Beloved, she com<g ref="char:EOLhyphen"/>pares him to those things which are most excellent and useful, as <hi>Myrrh, Aloes, Cassia,</hi> and all the chief spices.</p>
+               <p>
+                  <hi>Joseph</hi> used Physitians of old, not only for the recovering of the sick, but for the embalming of the dead; and the Art of the A<g ref="char:EOLhyphen"/>pothecary was employed, not on<g ref="char:EOLhyphen"/>ly to prepare holy Ointments for the consecration of Kings and Priests, but to compound Medi<g ref="char:EOLhyphen"/>cines for the restoration of inferi<g ref="char:EOLhyphen"/>or persons.</p>
+               <p>The blessed God is pleased to stile himself, The Lord, the Physitian: and the Holy Jesus derives his name from his
+<pb n="65" facs="tcp:207583:36"/> healing nature, and tells us, that the whole have no need of the Physitian; yet they that are sick have. And the Holy Ghost as<g ref="char:EOLhyphen"/>sures us by the Psalmists Pencil, that God hath given Medicines to heal mens sicknesses.</p>
+               <p>The most infallible way to have our distempers removed, is to endeavour to procure the con<g ref="char:EOLhyphen"/>course of a Divine influence, and to engage the Soveraign Power of that Almighty healer, unto whom belongs the issues from Death: And this is most likely to be done by the practice of true Religion, from such principles which are Divine and Spiritual. The Jews came under a promise of having their Bread and Water blessed, and their sickness remo<g ref="char:EOLhyphen"/>ved, if they harkened unto the Divine Statutes. <hi>Solomon</hi> urgeth the consideration of our Health, as a strong Argument to pro<g ref="char:EOLhyphen"/>mote holy and religious fear, tel<g ref="char:EOLhyphen"/>ling
+<pb n="66" facs="tcp:207583:37"/> men, it shall be health unto their Navels, and M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrow unto their Bones. Wisdom is a Tree of Life, if men do but eat the fruit of it by the practice of god<g ref="char:EOLhyphen"/>liness, which hath the promise of the Life that now is, as well as of that which is to come.</p>
+               <p>If men love life, and desire many days, and make it their re<g ref="char:EOLhyphen"/>quest to obtain the Divine Wis<g ref="char:EOLhyphen"/>dom; the way prescribed is to desist from evil, and to do good, and then length of days, and long life, and peace shall be added, as the wisest of men found by ex<g ref="char:EOLhyphen"/>perience.</p>
+               <p>Yielding subjection unto the father of Spirits, is as sure a way to obtain the blessing of long Life, as obedience unto our natural Parents; for there is a Command with a Promise annexed unto both: and we find Life in the In<g ref="char:EOLhyphen"/>ventory of the Christians Goods, when it was drawn up by the
+<pb n="67" facs="tcp:207583:37"/> great Doctor of the Gentiles.</p>
+               <p>Piety secures men very often from the power of evil Angels, who many times receive commis<g ref="char:EOLhyphen"/>sion to inflict corporal distem<g ref="char:EOLhyphen"/>pers; it defends from the stroke of humane justice, by warning men of those flagitious impieties which expose them unto the pe<g ref="char:EOLhyphen"/>nalties of human Laws; as Mur<g ref="char:EOLhyphen"/>ders, Thefts and Rapine.</p>
+               <p>Moreover, Religion preserves Men from the terrours of an evil Conscience, which makes them oftentimes wash their hands in their own Blood. And Virtue greatly preserves Life, as it teach<g ref="char:EOLhyphen"/>eth temperance and moderation in the use of Meats and Drinks. The circumstantial actions of Pi<g ref="char:EOLhyphen"/>ety, are very influential towards the lengthening the lives of Men. The sweet sleeps of temperate persons, and their freedom from violent and enraged passions, with the admirable contentment
+<pb n="68" facs="tcp:207583:38"/> that dwells in a holy Conscience; these make the Lamp of Life burn clear and long.</p>
+               <p>The Inspired Penman frequently prescribes Religion, as an Anti<g ref="char:EOLhyphen"/>dote against immature death, be<g ref="char:EOLhyphen"/>ing a direct enemy unto sin, which brought in sickness at the first.</p>
+               <p>And it is not difficult to under<g ref="char:EOLhyphen"/>stand, that as immorality destroys Soul and Body, and the stingings of a guilty mind torment both; so Piety and peace of mind, pre<g ref="char:EOLhyphen"/>serves and relieves both Soul and Body; for the Soul doth as well conduce unto the prolongation of the Body in natural Life, as unto its immortality in eternal Life; and the Body hath the perfection of Life, <hi>viz.</hi> Health, from the Soul, as well as Life it self.</p>
+               <p>Dying unto sin, is an excellent means to preserve Life, if Men would try the experiment, and indeavour to procure the Divine
+<pb n="69" facs="tcp:207583:38"/> Providence to be their Lifegard. We live by the word of blessing, out of the mouth of God, every command if observed, like food and Physick, it tends unto the lengthening our natural lives, as well as our spiritual.</p>
+               <p>When the great preserver of Men withdraws his protection, we are exposed unto the malig<g ref="char:EOLhyphen"/>nant Aspect of the Planets, and unto the fatal contingencies of Wars and Battels, and are endan<g ref="char:EOLhyphen"/>gered by every accident; The dust of a Wheel, the fall of a Tile, the largeness of a Morsel, the unevenness of a Stone, the plenty of a Humour, may stop our breath.</p>
+               <p>The Divine favour is the best Screen to shelter Men from the innumerable accidents of human Life, in which we are every mi<g ref="char:EOLhyphen"/>nute surrounded with a Thousand deaths.</p>
+               <p>And although we usually re<g ref="char:EOLhyphen"/>pute
+<pb n="70" facs="tcp:207583:39"/> old age, a young death, be<g ref="char:EOLhyphen"/>cause such are furrowed by the Plow of time, and seem to have as it were bespoke a grave; yet it is as natural for youth to dye, as age, being more common, and having more natural causes, and being more near death, upon fatal and less discerned accounts, by a sudden Fever, or Apoplex: In<g ref="char:EOLhyphen"/>deed a Consumptive person seems to be markt out for the mortal wound; but one in health may be suddenly surprized by an a<g ref="char:EOLhyphen"/>cute distemper, which proves a Besom of destruction to Three parts of <hi>Adams</hi> Race; to dye of age is a very rare thing, but the sins of youth are the immediate instruments of death: some vices carrying a Knife in their hand, cut off Man before his time, lop<g ref="char:EOLhyphen"/>ping of some branch from our short Life.</p>
+               <p>The pleasing gratifications of sense, walk hand in hand with
+<pb n="71" facs="tcp:207583:39"/> Death, and pursueth mortals, as the Waves of the Universal De<g ref="char:EOLhyphen"/>luge did the Posterity of <hi>Cain;</hi> and though they went from one Story unto another, higher and higher, yet at last they were o<g ref="char:EOLhyphen"/>verflowed: The wages of sin is death, and may as justly be paid in the Morning as in the Evening of our days.</p>
+               <p>Although Temperance doth not always prove an Antidote against the Pestilence, nor Abstinence a preservative against Famine; yet they are likely means.</p>
+               <p>We live not at an adventure, but the manner and moments of our Death came under a Divine appointment; the Jews could not prejudice the life of the Lord of Life, until his hour was come, <hi>viz.</hi> that hour which by Divine Wisdom, was appointed to be his last hour; as it is appointed to men once to dye, so also when to dye.</p>
+               <pb n="72" facs="tcp:207583:40"/>
+               <p>But yet the over-ruling deter<g ref="char:EOLhyphen"/>minations concerning our lives should not lessen our care to pre<g ref="char:EOLhyphen"/>serve them. It's a Turkish prin<g ref="char:EOLhyphen"/>ciple, to dream, that because the manner &amp; moment of Mens deaths are appointed, therefore it's va<g ref="char:EOLhyphen"/>nity and folly to arm our selves or Antidote our Bodies against the injuries of War, and assaults of Diseases.</p>
+               <p>It must be a confest verity, That every natural motion hath its beginning, duration, and Pe<g ref="char:EOLhyphen"/>riod, dependant on the will of the first Motor. Now the life o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Man being a natural motion, our Nativity and Death, are both or<g ref="char:EOLhyphen"/>dered by that Omnipotent Agent, in whom we live and move, and have our being.</p>
+               <p>The Life of Man consisting in a requisite harmony of qualities, and in a proportionate commix<g ref="char:EOLhyphen"/>ture of the natural heat, and ra<g ref="char:EOLhyphen"/>dical moisture; which harmony
+<pb n="73" facs="tcp:207583:40"/> is more or less, according unto the more exquisite temperature of Body, assigned unto each single Person, by the free dispensation of the Divine will; it must fol<g ref="char:EOLhyphen"/>low, that the continuance of eve<g ref="char:EOLhyphen"/>ry Man in this natural life, de<g ref="char:EOLhyphen"/>pends upon the pleasure of him who hath determin'd our days, and numbered our Months, and set our bounds which we cannot pass without his leave; who gave us the durability of our tempera<g ref="char:EOLhyphen"/>ments, and are compast by our Period, within the circle of his Providence.</p>
+               <p>But to imagine the Life of Men fixed, beyond the possibility of being prolonged or shortened by an Almighty Pleasure, seems highly unreasonable, he having kept a power in his own hands to lengthen or shorten as he plea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>eth. A Man may live out all hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> time, who wickedly shortens hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> own; and may be permitted to
+<pb n="74" facs="tcp:207583:41"/> do those forbidden acts, which inevitably tend unto his own de<g ref="char:EOLhyphen"/>struction. The <hi>Israelites</hi> mur<g ref="char:EOLhyphen"/>muring, anticipated their funerals, and buried them in the Wilder<g ref="char:EOLhyphen"/>ness, notwithstanding their pro<g ref="char:EOLhyphen"/>mise of seeing <hi>Canaan.</hi>
+               </p>
+               <p>The impiety of the old World, sent a watery calamity, which pos<g ref="char:EOLhyphen"/>sibly might have been prevented had their repentance been as visi<g ref="char:EOLhyphen"/>ble as that of <hi>Nineveh</hi> was, who were reprieved from Execution, after the sentence of Death seem'd past upon them, upon the expi<g ref="char:EOLhyphen"/>ration of Forty days.</p>
+               <p>Sin brought Death at first; and as sin increased, so death came nearer by Five hundred years. After the flood, men sinned still, and built Castles in the Air, and then Death came nearer by Three hundred years; and by <hi>Moses</hi>'s time a great part of that remnant is pared away, and Threescore and ten is the Period.
+<pb n="75" facs="tcp:207583:41"/> Had offended Justice gone on still to shorten our days, as men in<g ref="char:EOLhyphen"/>creased in sin, our Life by this time had not been a day long; and therefore he no longer de<g ref="char:EOLhyphen"/>stroys the kind, but punisheth the individual; and sets it down as a standing rule, That evil shall slay the wicked, and he shall not live out half his days.</p>
+               <p>We cannot observe one in Five hundred arrive at that age which they might attain unto by the course of nature, but end their days in folly, and in a peri<g ref="char:EOLhyphen"/>od which seems to be appointed in anger; from Surfeiting pro<g ref="char:EOLhyphen"/>ceeds desolation of Members, re<g ref="char:EOLhyphen"/>laxations of Nerves, fractury of Bones, inflamations of the Blood, crudities of Stomach, besides the uncleanly consequence of Lust, which like a Dart strikes through the Liver, and hunts for the pre<g ref="char:EOLhyphen"/>cious Life.</p>
+               <p>The Supreme Architector, hath
+<pb n="76" facs="tcp:207583:42"/> composed our Bodies like Lamps, and to supply the Oil consumed by the flame, hath given us appe<g ref="char:EOLhyphen"/>tites of Hunger and Thirst, with the addition of Reason to guide our appetites, and the Revelation of his Will to direct our Reason: But if men through the deprava<g ref="char:EOLhyphen"/>tion of nature, and the predomi<g ref="char:EOLhyphen"/>nance of temptation, suffer their Appetites to dethrone their Rea<g ref="char:EOLhyphen"/>son, and give way unto intem<g ref="char:EOLhyphen"/>perance and other immoralities, which have a tendency to extin<g ref="char:EOLhyphen"/>guish natures Lamp, by corrupt<g ref="char:EOLhyphen"/>ing the Oil, or spilling it, or blowing out the flame; then they may justly expect to be cut off in the midst of their days, and to dye before their time, be<g ref="char:EOLhyphen"/>ing made a sacrifice unto their overmuch wickedness.</p>
+               <p>On the contrary, we may take notice, That Faith and Obedi<g ref="char:EOLhyphen"/>ence, like the Tree of Life in Pa<g ref="char:EOLhyphen"/>radice, not only sacramentally,
+<pb n="77" facs="tcp:207583:42"/> but really conduce unto Health and long Life, so far as it is a blessing; and this it doth by im<g ref="char:EOLhyphen"/>pregnating our food with the tincture of a Divine Benediction; by meliorating our constitutions, and infusing wholesom disposi<g ref="char:EOLhyphen"/>tions in the Air, and favourable influences in the host of Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>It is probable, that the Prophet <hi>Baalam</hi>'s wish to dye the death of the righteous, did not only in<g ref="char:EOLhyphen"/>clude his being saved at last, but also that he might come to his Grave in a good old Age with his Fathers in peace, and might not be cut off like the <hi>Moabites,</hi> and other Nations, who perisht in their wickedness before his eyes.</p>
+               <p>Some of the Jewish <hi>Rabbins</hi> observe, that not a Son dyed of a natural death before his Father for Three thousand years; but the course of Nature was observed,
+<pb n="78" facs="tcp:207583:43"/> and he that was born first, dyed first, until <hi>Terah</hi>'s time, who was the first that taught the Peo<g ref="char:EOLhyphen"/>ple to make Images of Clay, and to corrupt Divine worship with Idolatry; and as a punishment of his sin, his Son <hi>Haran</hi> was snatcht away before him.</p>
+               <p>During the standing of the second Temple, there were Three hundred high Priests; but whilst the first stood, there were but Eighteen, which stood within Ten years as long as the second; their wickedness shortened their days: The Male Heir of <hi>Eli</hi>'s Family, as soon as born, dyed for many gene<g ref="char:EOLhyphen"/>rations; so that an old Man could not be seen of his Posterity, ac<g ref="char:EOLhyphen"/>cording unto a Divine sen<g ref="char:EOLhyphen"/>tence.</p>
+               <p>The addition of Fifteen years unto <hi>Hezekia</hi>'s days, was the result of Divine favour; but not without signal demonstrations of his repentance.</p>
+               <pb n="79" facs="tcp:207583:43"/>
+               <p>The Antient Patriarchs indeed out-lived all their Titles of con<g ref="char:EOLhyphen"/>sanguinity; yet observable it is, that none lived a compleat Thou<g ref="char:EOLhyphen"/>sand years, which possibly might be to accomplish the threatning unto <hi>Adam,</hi> That the day he eat the forbidden fruit he should dye, computing a day for a Thousand years: But a more probable Reason seems to be, to demonstrate unto Man, The vanity of Life; when those who lived longest, could not arrive at that period, which compared with Gods eternity, is but a day. All things being con<g ref="char:EOLhyphen"/>sidered, it may be esteemed a mercy, that so much of Mans Life is pared away in these last days, wherein so much of Hea<g ref="char:EOLhyphen"/>ven is discovered, that it would put a holy Souls patience hard to it, to know so much of the upper Worlds glory, and to be kept so long from it, as the Fathers in the Primitive times were; for
+<pb n="80" facs="tcp:207583:44"/> the most pompous entertainments in this Life, are but the good Mans Crosses, because they de<g ref="char:EOLhyphen"/>tain him from his Crown.</p>
+               <p>If M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n would have natural Re<g ref="char:EOLhyphen"/>medies prove effectual, they ought to indeavour to find out the moral as well as the natural cause of Di<g ref="char:EOLhyphen"/>stempers. <hi>Hypocrates</hi> adviseth Phy<g ref="char:EOLhyphen"/>sitians to search if there be not something Divine in Diseases. The living Man seldom com<g ref="char:EOLhyphen"/>plains, without giving his Maker a cause to inflict punishment; for the righteous Judg doth not af<g ref="char:EOLhyphen"/>flict willingly, nor grieve the Children of Men. There is some Babylonish Garment that hath in<g ref="char:EOLhyphen"/>fected the Body with Leprosie, and caused the Thorn in the flesh.</p>
+               <p>When the Rod utters its voice, it is to admonish Men to search into the distempers of their Minds as well as of their Bodies; and they are fed with the Bread of
+<pb n="81" facs="tcp:207583:44"/> affliction, and with the Water of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>dversity, to cure the Tympany <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f Pride, the Fever of Passion, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd the Dropsy of Covetousness. The Plague in the Body, is some<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>imes sent to cure the Plague in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Heart: Sin is that root of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>itterness, from whence all our <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roubles in the flesh spring up.</p>
+               <p>Men, like <hi>Baalam,</hi> are apt to strike the Beast, the external in<g ref="char:EOLhyphen"/>strument that hurts them; but never mind the Angel that stands in the way with a drawn Sword, which caused that instrument to hurt.</p>
+               <p>There are many happy intenti<g ref="char:EOLhyphen"/>ons Divine goodness aims at, in laying Diseases upon mens Bodies. Holy <hi>Job</hi> doth not attribute the loss of his Children unto exter<g ref="char:EOLhyphen"/>nal causes, but acquiesseth in the disposal of Divine Wisdom; knowing they might be removed to exercise his Patience. The sickness of <hi>Lazarus</hi> whom Christ
+<pb n="82" facs="tcp:207583:45"/> loved, was not designed for his death only, but that Divine Mer<g ref="char:EOLhyphen"/>cy might have the honour of re<g ref="char:EOLhyphen"/>storing him.</p>
+               <p>The sickness of <hi>Epaphroditus,</hi> in which he was brought nigh un<g ref="char:EOLhyphen"/>to death, occasioned the thanks of many to be returned in his be<g ref="char:EOLhyphen"/>half.</p>
+               <p>Men have then great Reason to bless the Lord with their Souls, and with all that is within them, to praise his holy Name, when he healeth all their Diseases: This consideration elivated the holy soul of King <hi>Hezekia,</hi> and tran<g ref="char:EOLhyphen"/>sported him into a Divine Doxo<g ref="char:EOLhyphen"/>logy.</p>
+               <p>When Men have received the sentence of Death in themselves, and are miraculously delivered from going down to the Grave, then have they cause to praise the Lord in the great Congregation, and to utter their Songs unto the God of their lives.</p>
+               <pb n="83" facs="tcp:207583:45"/>
+               <p>The sick Bed is the attiring Room of the Grave, in which Men should be preparing them<g ref="char:EOLhyphen"/>selves for the solemnities of their Funerals. By lingering distem<g ref="char:EOLhyphen"/>pers Men are gradually putting off their vail of flesh, to be cloath<g ref="char:EOLhyphen"/>ed upon with that house which is from Heaven.</p>
+               <p>Sickness is the Monitor of mor<g ref="char:EOLhyphen"/>tality, and makes Men learn to know their end, and gives them a sensible prospect of that House appointed for all living, leading Men by the hand unto their long homes.</p>
+               <p>Diseases are sent to unravel hu<g ref="char:EOLhyphen"/>mane nature, causing Death to work in us, until it hath wrought our health, and strength, and ease, and life, and it self away.</p>
+               <p>Divine strength is many times made perfect in corporal weaknes<g ref="char:EOLhyphen"/>ses; and one great design of the same, is to administer an oppor<g ref="char:EOLhyphen"/>tunity of experience unto the
+<pb n="84" facs="tcp:207583:46"/> pious soul, of internal succours and supports, strengthning upon the Bed of languishing, and ma<g ref="char:EOLhyphen"/>king its Bed in its sickness.</p>
+               <p>When the flesh and the heart is ready to fail, and the waves and billows of Diseases and pains pass over mens Bodies, so that they are even sinking with despair; then the visitation of Heaven pre<g ref="char:EOLhyphen"/>serves their spirits, and make them forget their pains, by giv<g ref="char:EOLhyphen"/>ing a prospect of endless plea<g ref="char:EOLhyphen"/>sures.</p>
+               <p>Sometimes the sacrificing-knife is laid upon the neck of an <hi>Isaac,</hi> to try whether the indulgent Pa<g ref="char:EOLhyphen"/>rent will prefer the life of his na<g ref="char:EOLhyphen"/>tural Son, before the Will of his Heavenly Father.</p>
+               <p>And the immature death of a Child, is intended to call the Pa<g ref="char:EOLhyphen"/>rents sins to remembrance; and sometimes to try the Parents pa<g ref="char:EOLhyphen"/>tience, as might be exemplified from sacred Records.</p>
+               <pb n="85" facs="tcp:207583:46"/>
+               <p>The way to have sickness remo<g ref="char:EOLhyphen"/>ved is not only to use natural Re<g ref="char:EOLhyphen"/>medies, but also Spiritual and Di<g ref="char:EOLhyphen"/>vine; by imploring the help of that great Physitian, who was Typified by the Brazen Serpent; which if Men did more frequent<g ref="char:EOLhyphen"/>ly practice, they would sooner be healed, both of the sting and pain of sickness.</p>
+               <p>It well becomes the most holy Soul, at the point of Death, to abound with an, O spare me, that I may recover strength, for the Hand of Omnipotence can reach Mens maladies from Heaven, and his Word can heal their sores.</p>
+               <p>When Men are bidden to go up into the Mount, as it were of a sick Bed, and dye; it highly concerns them to enquire, where<g ref="char:EOLhyphen"/>fore Divine goodness contends with them.</p>
+               <p>When the inward man is re<g ref="char:EOLhyphen"/>newed by the decay of the out<g ref="char:EOLhyphen"/>ward, &amp; mens great provocations
+<pb n="86" facs="tcp:207583:47"/> are abated, by their being smitten and touched in their Bone &amp; their Flesh; then the Almighty returns and receives them, according un<g ref="char:EOLhyphen"/>to the days, wherein they have been afflicted with pain and an<g ref="char:EOLhyphen"/>guish.</p>
+               <p>Sickness many times receives a commission, to continue until Mens eyes are open, to see it was their own wickedness that cor<g ref="char:EOLhyphen"/>rected them; and from thence to infer how evil and bitter a thing it is to forsake the Fountain of living water, and to seek out broken Cisterns.</p>
+               <p>Complaining Mortals being sen<g ref="char:EOLhyphen"/>sible that there is no soundness in their flesh, nor rest in their Bones; and they observe the cause to spring from Divine anger, occasi<g ref="char:EOLhyphen"/>oned by their sinful miscarriages, and from thence come to receive correction▪ then the Distemper receives a Commission to depart.</p>
+               <p>If languishing Patients cast a
+<pb n="87" facs="tcp:207583:47"/> severe eye upon the Plagues, the Consumptions, the Inflamations, and extream burnings, that at<g ref="char:EOLhyphen"/>tend as Pages upon their Pride, Wantonness, Intemperance, and Carnality, and it produceth an awful fear of offending the Divine Majesty, and a strict com<g ref="char:EOLhyphen"/>mune with their hearts upon their sick beds; so that their spi<g ref="char:EOLhyphen"/>rits make a diligent search into the causes of their distempers: Then they find a rebuke to attend their Diseases, and they are made whole.</p>
+               <p>A great design of sickness it is, to wean the minds of Men from their fondness of temporary in<g ref="char:EOLhyphen"/>joyments, to take them off from laying the foundation of their happiness upon finite fantasies, and to convince them what in<g ref="char:EOLhyphen"/>considerable things their Beauty, Honour and Strength are, which a lump of Phlegm, or a blast of Wind can take from them.</p>
+               <pb n="88" facs="tcp:207583:48"/>
+               <p>When sickness makes men listen unto the striking of the Clock of time with greater attention, and excites their endeavours to ren<g ref="char:EOLhyphen"/>der Death a stingless Serpent; then the great part of the cure is performed.</p>
+               <p>Men being brought low by the manifold infirmities of hu<g ref="char:EOLhyphen"/>mane nature, and knocking as it were at the gates of the Grave, by tortures and agonies of Body: It becomes a principle of the highest prudence, to look up un<g ref="char:EOLhyphen"/>to the everlasting Hills; from whence comes their help; it be<g ref="char:EOLhyphen"/>ing the same hand that wounded, that must heal.</p>
+               <p>The blow of the heavy hand of Heaven, pressing men sore; so that a Man might read the sen<g ref="char:EOLhyphen"/>tence of death in some mens fore<g ref="char:EOLhyphen"/>heads, written in the lines of a lingering Disease: The difficult motion of their Lungs to suck in Air, being like a passing Bell,
+<pb n="89" facs="tcp:207583:48"/> sounding continually in their ears; and the striking of their uneven Pulse, too much resembling the digging of their Graves: Yet in this disconsolate case, the fervent effectual Prayer of a righteous Man hath prevailed much.</p>
+               <p>The Arrows of the Almighty, <hi>viz.</hi> Diseases, fly thick in the World, and are shot sometimes into our Lungs, and sometimes into our Joynts and Hearts, and do give denomination unto vari<g ref="char:EOLhyphen"/>ous Distempers; and they stick fast, until they are pulled out by an Omnipotent hand.</p>
+               <p>When mens wounds stink and are corrupt, and they are made to possess months of vanity, weary<g ref="char:EOLhyphen"/>some nights being appointed un<g ref="char:EOLhyphen"/>to them; and they seem, as it were, to be spitting away their lives, notwithstanding all Reme<g ref="char:EOLhyphen"/>dies have been used; yet at last up<g ref="char:EOLhyphen"/>on an humble supplication unto the blessed Jesus, unto whom be<g ref="char:EOLhyphen"/>long
+<pb n="90" facs="tcp:207583:49"/> the issues from Death, and whose power is the same now in Heaven as when he was on Earth, there comes a Reprieve; many a Man losing Life, for want of asking it at his hands, who would grant it, if invited to our Bed<g ref="char:EOLhyphen"/>side by fervent Prayers.</p>
+               <p>The Reason why Remedies prove so often ineffectual, is, because men neglect to act faith and a holy confidence in a Divine power; which if they did but touch the very hem of its garment, their Faith would keep them from fainting.</p>
+               <p>When men are cast down and disquieted by pains and sicknes<g ref="char:EOLhyphen"/>ses; then to hope in him who is the health of their countenance, and in quietness and confidence they will find their greatest strength.</p>
+               <p>To humble our selves under the mighty hand of God, is the way to hasten our cure, and to be
+<pb n="91" facs="tcp:207583:49"/> exalted to health in his due time.</p>
+               <p>When God resolves to make men sick with smiting them, they ought to beware of murmuring, and impatience, which exasper<g ref="char:EOLhyphen"/>ates their calamity, it being far more advantageous towards reco<g ref="char:EOLhyphen"/>very, patiently to hope, and qui<g ref="char:EOLhyphen"/>etly to wait for the salvation of God; for they that wait upon the Lord, have a promise that they shall renew their strengths, and be saved, if they continue in Faith and patience: a meek and quiet spirit under all chastisements, being a great ornament, and a great advantage towards reco<g ref="char:EOLhyphen"/>very.</p>
+               <p>The Image of the Goddess <hi>An<g ref="char:EOLhyphen"/>gerina,</hi> was with a Muffler at her mouth, placed at the Temple of <hi>Volupia,</hi> signifying, that pleasure should be their portion who bare sicknesses with patience, silence, and submission.</p>
+               <p>The way to be recovered from
+<pb n="92" facs="tcp:207583:50"/> sickness, and to procure the Di<g ref="char:EOLhyphen"/>vine influence, is, to be thank<g ref="char:EOLhyphen"/>ful for the least mitigation of pain; like the single Leper, re<g ref="char:EOLhyphen"/>turning to give thanks, before there is a perfect recovery.</p>
+               <p>But when Men instead of offer<g ref="char:EOLhyphen"/>ing their gifts and sacrifice of praise unto the Divine Majesty upon their recovery, as the Jews were commanded to do under the Law; like <hi>Jeroboam,</hi> grow worse after his hand was withered: This is a speedy way to fall into a mor<g ref="char:EOLhyphen"/>tal relapse, and to have temporal pains usher in eternal torments.</p>
+               <p>Were it possible for a Man to stand upon one of the Battlements of Heaven, and with one glance of his eye to behold all the wounds and Diseases, and to hear all the groans and complaints of dying and diseased mortals; How would the blessing of Health be prized by such a one?</p>
+               <p>A sick Bed, is an uneasie place,
+<pb n="93" facs="tcp:207583:50"/> when a Man is tossing to and fro, until the dawning of the day; and when it is night, wishing that it were day; and when it is day, that it were night; using muta<g ref="char:EOLhyphen"/>tion instead of Medicines, and imploying time in telling the Clock, and entertaining melan<g ref="char:EOLhyphen"/>choly Dreams, and sad apprehen<g ref="char:EOLhyphen"/>sions of the blackness of the night; but one way to be freed from these calamitous circumstan<g ref="char:EOLhyphen"/>ces, is to use our Health for the ends for which it was given.</p>
+               <p>A mistake which often proves very destructive unto the lives and healths of men, is a vulgar opinion, That Witches, Wizards, and other cunning persons, can by a Diabolical confederacy foretel the deaths and periods of mens lives; and if so, How can Virtue prorogue, or Vice abreviate mens days? Unto this it may be an<g ref="char:EOLhyphen"/>swered, That Satan may some<g ref="char:EOLhyphen"/>times give intelligence unto some who
+<pb n="94" facs="tcp:207583:51"/> are his Oracles; yet his knowledg<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is but conjectural, or at most h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> knows futurities only as they ap<g ref="char:EOLunhyphen"/>pear in their precedent Cause<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> both natural and moral.</p>
+               <p>Supposing it were the Devil i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Samuel</hi>'s Mantle, that did forete<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the precise time of <hi>Saul</hi>'s death yet it doth not imply the absolute certainty of the Devils predicti<g ref="char:EOLunhyphen"/>on, or the fatal necessity of <hi>Saul</hi>'s death: It was easie to speak as h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> did, there being all the forerun<g ref="char:EOLhyphen"/>ners of his approaching ruine vi<g ref="char:EOLhyphen"/>sible in the Causes; for <hi>Davi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> was anointed King, and <hi>Sau<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> grew worse and worse, consulted with a Witch, and the Batte<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> drew near, and what could be expected, but his overthrow and death?</p>
+               <p>If it should be granted, tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the lying spirits in the mouth o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Ahab</hi>'s Prophets, did foreknow his Death; it might be only from their observation, that he went
+<pb n="95" facs="tcp:207583:51"/> against a Divine command.</p>
+               <p>Therefore i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s highly unreason<g ref="char:EOLhyphen"/>able, to give heed unto seducing spirits, and Doctrines of Devils, consulting with the god of <hi>Ekhron,</hi> when there is a God in <hi>Israel;</hi> some mens curiosities in this kind, hath cost them their lives, being forbidden such practices upon pain of damnation. What wise Man would so far violate his Bap<g ref="char:EOLhyphen"/>tismal Covenant (wherein he hath engaged to forsake the De<g ref="char:EOLhyphen"/>vil) as to go unto the destroyer of mankind, or unto his instru<g ref="char:EOLhyphen"/>ments, for life-preserving Reme<g ref="char:EOLhyphen"/>dies?</p>
+               <p>Such a one is guilty of the high<g ref="char:EOLhyphen"/>est Idolatry, and falls down to worship the Devil, whom his Lord and Master rejected with the greatest indignation.</p>
+               <p>Magicians indeed use charms, evil signs, and good words, the better to deceive the ignorant; and herein being Gods Ape, for
+<pb n="96" facs="tcp:207583:52"/> as he hath made a Covenant with his, and hath appointed signs and scals, upon the faithful use o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> which, he is present to perform what he hath promised: So the Devil makes a covenant with Wizards, upon which he hath given signs and tokens, That i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they use the one, hee'l perform the other.</p>
+               <p>Some credulous minds are so flexible, as to be possessed with transporting fears of the danger of their clymaterical year; as i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the number Seven and Nine had in them something sacred, be<g ref="char:EOLhyphen"/>cause <hi>Pythagoras</hi> and some Phylo<g ref="char:EOLhyphen"/>sophers dreamed so: But there is no solid foundation for such un<g ref="char:EOLhyphen"/>reasonable Phantasies; we Christi<g ref="char:EOLhyphen"/>ans having a more sure word of Prophecy; which indeed directs us to number our days, but not to compute our days by numbers, so as to fix their period at such a number. There may be as good
+<pb n="97" facs="tcp:207583:52"/> Reason given for the observing the numbers, One, Three, Four, Six and Ten; so that should we have Reason to perplex our minds from hence, our fears would be numberless: For what although there were Seven wonders of the World, Seven Gates of <hi>Thebes,</hi> Seven Stars in <hi>Ʋrsa major,</hi> Seven wise men of <hi>Greece,</hi> and Seven Circles in the Heavens; and are there not certain numbers of all things in nature? And what though <hi>Aristotle, Erasmus, Luther, Melancthon, Alexander,</hi> and ma<g ref="char:EOLhyphen"/>ny others dyed in their Clyma<g ref="char:EOLhyphen"/>cterical year? have not many more dyed in other years? <hi>Moses</hi> mentions a year of danger, differ<g ref="char:EOLhyphen"/>ing from all these; and that is Ten times Seven, or Seventy; and that must needs be of greatest danger, which is the period of all the rest, and fewest safely pass o<g ref="char:EOLhyphen"/>ver; which is set as a bound to humane nature.</p>
+               <pb n="98" facs="tcp:207583:53"/>
+               <p>It must be a confest verity, That Seven years makes great altera<g ref="char:EOLhyphen"/>tions in human Bodies; and we may be said once in that space, to lick new Bodies off our Trench<g ref="char:EOLhyphen"/>ers: But to give Numbers the Key of the Grave, is ridiculous.</p>
+               <p>Our periods depend more on actions, than figures; and men contracted their lives into the wicked mans abridgment, by sins, not years.</p>
+               <p>It was taken for granted in <hi>Job</hi>'s days, That the Candle of the wicked is often put out, and the number of his Months cut off in the midst.</p>
+               <p>Moreover, we may take notice of some, who dream that the pe<g ref="char:EOLhyphen"/>riod of their days, depends more upon the malevolent influence of a Planet, than upon any particu<g ref="char:EOLhyphen"/>lar Providence: A belief very contrary to the Articles of the Christian Faith, To imagine an Astrological necessity imposed up<g ref="char:EOLhyphen"/>on
+<pb n="99" facs="tcp:207583:53"/> all sublunary Agents, by the influence of coelestial Bodies; and that the manner and moment of our deaths, depends upon the Stars.</p>
+               <p>It is a known truth, That the heavenly Bodies do operate, ac<g ref="char:EOLhyphen"/>cording to the variety of the mat<g ref="char:EOLhyphen"/>ter upon which they are conver<g ref="char:EOLhyphen"/>sant; and we may observe in the experiment of Twins born under the same Planet, although they have the principle of seminality, Bed of nature, and time of birth; yet they differ in sex, complexion, wealth and death, as in the ex<g ref="char:EOLhyphen"/>ample of <hi>Esau</hi> and <hi>Jacob.</hi> It would be very strange, to ima<g ref="char:EOLhyphen"/>gine that all that are slain in the same Battel, were born under the same Ascendent.</p>
+               <p>So that the proper Reason, why such a Child is strong, and such a one weak, it's rather to be attributed to the complexion of the Parents, than the influence of
+<pb n="100" facs="tcp:207583:54"/> the Heavens; to the Mothers Milk, than to the <hi>via lactea:</hi> and the Reason why such a one was shot to death, was not because his Horoscope was direct to Saturn, but because the Gun was directed to him: Besides, custom, educa<g ref="char:EOLhyphen"/>tion, example, alter nature; and our second births, divert the mis<g ref="char:EOLhyphen"/>chievous effects of our first nati<g ref="char:EOLhyphen"/>vities.</p>
+               <p>It is strange to observe the groundless fears that some lye un<g ref="char:EOLhyphen"/>der, from Planetary influences, and Dog-stars, which neither bark nor bite in our climates; o<g ref="char:EOLhyphen"/>mitting seasonable Remedies, for fear of signs which are insignifi<g ref="char:EOLhyphen"/>cant; more regarding an antick Picture in their Almanacks, than the beginning, state, and decli<g ref="char:EOLhyphen"/>nation of the Disease.</p>
+               <p>To suppose Diseases to be meer<g ref="char:EOLhyphen"/>ly the results of natural causes in Mens bodies, and not the inflicti<g ref="char:EOLhyphen"/>ons of a Power, who sometimes
+<pb n="101" facs="tcp:207583:54"/> acts above the sphear of Nature, is a great mistake; for there are some Diseases which seem to have no dependance upon the chain of second causes. The Jews were threatned with some Diseases, which should not be cured by na<g ref="char:EOLhyphen"/>tural means; even wonderful Plagues of long continuance; and many instances of Diseases in<g ref="char:EOLhyphen"/>flicted by supernatural agents, as Angels and Spirits, who disturb the humours, and raise storms and tempests in Mens Bodies, as well as in the Air.</p>
+               <p>An evil Angel afflicted <hi>Saul</hi> with stupendious melancholy, and holy <hi>Job</hi> with painful Boils, and bowed a Daughter of <hi>Abraham</hi> Eighteen years: When an Omni<g ref="char:EOLhyphen"/>potent power gives leave, the Devil can as easily possess the minds of Men with distractions, as of Swine with rage.</p>
+               <p>The excommunicate <hi>Corinthi<g ref="char:EOLhyphen"/>an,</hi> being delivered up to Satan,
+<pb n="102" facs="tcp:207583:55"/> for the destruction of the flesh, in order unto the salvation of the spirit, may as possibly be under<g ref="char:EOLhyphen"/>stood of his being afflicted with a corporal distemper, by the pow<g ref="char:EOLhyphen"/>er of the Devil, as in any other respect; and we know St. <hi>Pauls</hi> Thorn in the flesh, the messenger of Satan sent to buffet him, hath various explications; yet some understand it with relation unto the present purpose. The Laci<g ref="char:EOLhyphen"/>vious persons seeking for <hi>Lot</hi>'s House, to gratifie their vile inten<g ref="char:EOLhyphen"/>tions, were shot blind by an An<g ref="char:EOLhyphen"/>gel; and those windows were stopt up, which let in wanton glances.</p>
+               <p>Evil Angels were sent to afflict the <hi>Israelits</hi> with Divers calami<g ref="char:EOLhyphen"/>ties; and we read in sacred Re<g ref="char:EOLhyphen"/>cords, of many thousands in one night slain by the destroying Sword of an Angel, by a Pestilen<g ref="char:EOLhyphen"/>tial contagion.</p>
+               <p>And the several possest persons
+<pb n="103" facs="tcp:207583:55"/> whom our blessed Lord delivered from the power of the Prince of Darkness, were miserably afflicted with Epilepsies, Lunacies, Con<g ref="char:EOLhyphen"/>vulsions, and other direful Sym<g ref="char:EOLhyphen"/>ptoms.</p>
+               <p>Moreover we have many, who from Palmestry, and making ob<g ref="char:EOLhyphen"/>servations from the lines in the Hand, especially the line of Life, will undertake to measure every Mans Life, and the manner and moments of their Deaths; and so make void the use of means both natural and moral; whereas the Lines in the Hand, which are ac<g ref="char:EOLhyphen"/>counted natures Manuscripts, are but the fouldings of the skin when the hand bends inwards; and are not proper unto any of those creatures which have their feet always extended; Age, La<g ref="char:EOLhyphen"/>bour and Diseases alter them, and sometime obliterate them. They are a Book fitter for Justices to discover idleness, than for to dis<g ref="char:EOLhyphen"/>cover
+<pb n="104" facs="tcp:207583:56"/> future events; their Pre<g ref="char:EOLhyphen"/>dictions are the products of con<g ref="char:EOLhyphen"/>jecture rather than Art; and they deserve rather to be made the ex<g ref="char:EOLhyphen"/>amples of severity, than to receive credit in a Christian Nation.</p>
+               <p>To dream that <hi>Amulet</hi>'s Cha<g ref="char:EOLhyphen"/>racters, Charms and Spels, are of any virtue in curing Diseases, is vain. Because St. <hi>Paul</hi>'s Hand<g ref="char:EOLhyphen"/>kerchief, St. <hi>Peter</hi>'s shadow, and the Hem of our Saviours Gar<g ref="char:EOLhyphen"/>ment miraculously cured some in the primitive time; therefore to think our selves still obliged to the use of extream Unction, and other such abolisht ceremonies of heal<g ref="char:EOLhyphen"/>ing, highly argueth a crasiness in Mens intellectuals. The Reasons why those miraculous ways of cure were used (namely the con<g ref="char:EOLhyphen"/>firmation of the Gospel in its first plantation) being ceased, the way of cure must also cease, We cannot probably expect a Divine blessing, with such means as have
+<pb n="105" facs="tcp:207583:56"/> no natural virtue, as Words, Spels and Characters. If one Text of Scripture carried in the Sleeve, will cure an Ague, the <hi>Bible</hi> car<g ref="char:EOLhyphen"/>ried in the Pocket, might cure all Diseas<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> But Divine Oracles were not given to trifle with, but to guide our Faith and Manners, and to direct until we come un<g ref="char:EOLhyphen"/>to that place, where there will be no need of Medicines to ease pains, or moral Rules to render them effectual.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:207583:57"/>
+            <head>Books sould by <hi>Tho. Cockeril,</hi> at the <hi>Atlas</hi> in <hi>Cornhil.</hi>
+            </head>
+            <p>THE <hi>Morning Exercise</hi> at <hi>Cripplegate,</hi> or several Cases of Conscience, practically resol<g ref="char:EOLunhyphen"/>ved by sundry Ministers, in <hi>Quar<g ref="char:EOLhyphen"/>to.</hi>
+            </p>
+            <p>A Suplement to the <hi>Morning Exercise</hi> at <hi>Cripplegate,</hi> or severa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more Cases of Conscience, practi<g ref="char:EOLunhyphen"/>cally resolved by sundry Ministers in <hi>Quarto,</hi> price bound 10 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Precious Faith,</hi> considered i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> its nature, working and growth by <hi>Edward Polhill</hi> of <hi>Burwash</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Sussex,</hi> Esq, in Large <hi>Octavo</hi> price bound 3 <hi>s</hi> 6 <hi>d.</hi>
+            </p>
+            <p>A Dialogue between a Popis<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Priest, and an English Protestant wherein the principle points an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Arguments of both Religions, ar<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> truly proposed, and fully examin<g ref="char:EOLunhyphen"/>ed, by <hi>Matthew Pool,</hi> Author o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the <hi>Synopsis Criticorum.</hi> The la<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Edition Corrected and amende<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Price Bound 1 <hi>s.</hi>
+            </p>
+            <pb facs="tcp:207583:57"/>
+         </div>
+      </back>
+   </text>
+</TEI>
